@@ -1,0 +1,378 @@
+Staff_Id,Name,Age,Department,Designation,Stream,Gender,Qualification,Experience,Is_Associated_Last_Year,Currently_Working,Joining_Date,Leaving_Date,Association_Type,Salary
+1,Alexander Jesudasan R W,58,Management,Dean,Self Finance Stream ,Male,D.Sc,34.58,Yes,Yes,1986-08-01,2018-01-17 00:00:00,Regular,95864
+2,Samuel Rufus,42,English,Assistant Professor,Aided Stream ,Male,Ph.D,18.08,Yes,Yes,2003-07-15,--,Regular,57763
+3,Deepa Priyadarshini,34,English,Assistant Professor,Aided Stream ,Female,NET,10.92,Yes,Yes,2016-06-13,--,Regular,60250
+4,Sandhya Ravishankar,38,English,Assistant Professor,Aided Stream ,Female,NET,6.08,Yes,Yes,2014-06-17,2018-01-17 00:00:00,Regular,40780
+5,George P,56,Tamil,Associate Professor,Aided Stream ,Male,Ph.D,26.33,Yes,Yes,1994-07-25,25-07-,Regular,70869
+6,Vishwanatha Kundadka,58,English,Associate Professor,Aided Stream ,Male,M. Phil,26.83,Yes,No,1993-09-30,2017-01-31 00:00:00,Regular,82000
+7,Santhi A K,44,Languages,Assistant Professor,Aided Stream ,Female,NET,20.0,Yes,Yes,2000-07-13,--,Regular,61880
+8,Venkataramanujan R,47,Management,Dean,Aided Stream ,Male,Ph.D,16.08,Yes,Yes,2004-06-14,--,Regular,47974
+9,Christina Kokila W,44,History,Assistant Professor,Aided Stream ,Female,Ph.D,12.08,Yes,Yes,2008-06-15,--,Regular,59000
+10,Palani K,58,English,Associate Professor,Aided Stream ,Male,Ph.D,33.83,Yes,No,1986-09-15,2017-01-01 00:00:00,Regular,89500
+11,Sridhar R,52,Political Science,Associate Professor,Aided Stream ,Male,NET,29.0,Yes,Yes,1991-08-01,2018-01-11 00:00:00,Regular,71970
+12,Haans J Freddy,39,Political Science,Assistant Professor,Aided Stream ,Male,Ph.D,8.0,Yes,Yes,2015-06-15,--,Regular,41560
+13,Meera Rajeev Kumar,42,BCA,Assistant Professor,Self Finance Stream ,Female,Ph.D,8.08,Yes,Yes,2012-06-05,--,Regular,41700
+14,Merlin Juliet Arul Thangam D,55,Economics,Associate Professor,Aided Stream ,Female,Ph.D,27.92,Yes,Yes,1992-09-01,--,Regular,71828
+15,Ruth Elizabeth Jacob,34,Economics,Assistant Professor,Aided Stream ,Female,NET,9.83,Yes,Yes,2010-09-28,--,Regular,53885
+16,James Kurian,55,BCA,Assistant Professor,Self Finance Stream ,Male,Ph.D,24.42,Yes,Yes,1996-02-28,--,Regular,65838
+17,Jojan Job,48,Philosophy,Assistant Professor,Aided Stream ,Male,SLET,8.08,Yes,Yes,2012-06-18,--,Regular,38050
+18,Prince Annadurai D,49,Social Work,Assistant Professor,Aided Stream ,Male,Ph.D,27.5,Yes,Yes,1994-01-15,--,Regular,71010
+19,Vijaya Kumari Joseph,53,Management,Dean,Aided Stream ,Female,Ph.D,21.92,Yes,Yes,1998-09-01,--,Regular,62315
+20,Tabitha Durai,41,Commerce,Assistant Professor,Aided Stream ,Female,Ph.D,19.0,Yes,Yes,2001-08-02,--,Regular,59100
+21,Thomas Rosy,53,Management,Dean,Aided Stream ,Female,Ph.D,30.25,Yes,Yes,1990-04-12,--,Regular,89697
+22,Annal Deva Priya Darshini C,46,Maths,Assistant Professor,Aided Stream ,Female,Ph.D,14.17,Yes,Yes,2008-06-13,2018-03-05 00:00:00,Regular,43992
+23,Miriam Kalpana Simon,43,Statistics,Assistant Professor,Aided Stream ,Female,NET,20.67,Yes,Yes,1999-11-25,2018-02-04 00:00:00,Regular,57300
+24,Samuel Asirvatham P,55,Physics,Head Of Department,Aided Stream ,Male,Ph.D,33.08,Yes,Yes,1987-07-08,--,Regular,80956
+25,Caroline Victoria E,44,Physics,Assistant Professor,Aided Stream ,Female,Ph.D,17.0,Yes,Yes,2003-06-26,--,Regular,51106
+26,Rabikumar M,45,Physics,Assistant Professor,Aided Stream ,Male,NET,15.0,Yes,Yes,2005-07-13,--,Regular,45090
+27,Joseph Jeremiah J,39,Physics,Assistant Professor,Aided Stream ,Male,Ph.D,7.33,Yes,Yes,2014-06-16,--,Regular,36400
+28,Shyamala Lionel,57,Chemistry,Assistant Professor,Aided Stream ,Female,Ph.D,32.58,Yes,Yes,2003-08-07,--,Regular,74460
+29,Gnanamani Simiyon,33,Chemistry,Assistant Professor,Aided Stream ,Male,NET,9.75,Yes,Yes,2013-06-15,2018-01-01 00:00:00,Regular,36000
+30,Rakhi Yadav,43,Chemistry,Assistant Professor,Aided Stream ,Female,Ph.D,12.0,Yes,Yes,2008-07-15,--,Regular,42090
+31,Jeyarathi J,42,Botany,Assistant Professor,Aided Stream ,Female,NET,17.0,Yes,Yes,2003-07-01,--,Regular,49800
+32,Kumar M,38,Botany,Assistant Professor,Aided Stream ,Male,Ph.D,8.92,Yes,Yes,2012-02-01,--,Regular,39790
+33,Manu Thomas Mathai,58,BCA,Associate Professor,Self Finance Stream ,Male,Ph.D,31.67,Yes,No,1988-11-15,31-11-2016,Regular,75000
+34,Ananthi Rachel Livingstone,49,Zoology,Assistant Professor,Aided Stream ,Female,Ph.D,17.0,Yes,Yes,2003-07-03,--,Regular,55195
+35,Asha Thomas,40,Mathematics,Head Of Department,Self Finance Stream ,Female,SET,17.08,Yes,Yes,2005-07-13,--,Regular,46230
+36,Mekala Rajan,56,English,Head Of Department,Aided Stream ,Female,Ph.D,32.08,Yes,Yes,1999-06-29,--,Regular,34500
+37,David Abraham Albert,45,English,Assistant Professor,Aided Stream ,Male,Ph.D,19.08,Yes,Yes,2004-06-22,--,Regular,59753
+38,Monsingh Daniel C,36,English,Assistant Professor,Aided Stream ,Male,NET,9.75,Yes,Yes,2010-08-19,--,Regular,41320
+39,David Prabhakar P,57,Tamil,Head Of Department,Aided Stream ,Male,Ph.D,29.83,Yes,Yes,1990-09-05,--,Regular,71192
+40,Meshak D,51,Tamil,Assistant Professor,Aided Stream ,Male,Ph.D,20.67,Yes,Yes,1999-11-22,--,Regular,62746
+41,Gopalakrishnan P,50,BCA,Assistant Professor,Self Finance Stream ,Male,Ph.D,21.83,Yes,Yes,1998-10-05,--,Regular,59776
+42,Sabeera Sulthana Bijli,38,History,Assistant Professor,Aided Stream ,Female,Ph.D,7.08,Yes,Yes,2013-06-13,--,Regular,35900
+43,Hariharan N M,55,Political Science,Associate Professor,Aided Stream ,Male,Ph.D,30.42,Yes,Yes,1990-03-05,--,Regular,85056
+44,Diviyan J,51,Political Science,Assistant Professor,Aided Stream ,Male,M. Phil,19.92,Yes,Yes,2003-06-01,--,Regular,62010
+45,Ansuman N,45,BCA,Assistant Professor,Self Finance Stream ,Female,Ph.D,10.08,Yes,Yes,2010-06-14,--,Regular,42181
+46,Annadurai A,52,Economics,Associate Professor,Aided Stream ,Male,Ph.D,16.08,Yes,Yes,2004-06-28,--,Regular,45729
+47,Smile Ross,56,Philosophy,Head Of Department,Aided Stream ,Male,M. Phil,30.33,Yes,Yes,1990-03-03,--,Regular,81850
+48,Kumari Sunitha,50,Philosophy,Assistant Professor,Aided Stream ,Female,Ph.D,17.58,Yes,Yes,2008-06-15,--,Regular,55264
+49,Shanmuga Sundaram  V,49,Commerce,Assistant Professor,Self Finance Stream ,Male,Ph.D,12.25,Yes,Yes,2015-06-15,--,Regular,42800
+50,Sudharsan S,35,Social Work,Assistant Professor,Aided Stream ,Male,Ph.D,9.42,Yes,Yes,2015-06-15,--,Regular,39800
+51,Tamilarasi Mailachalam,55,Commerce,Head Of Department,Aided Stream ,Female,Ph.D,32.0,Yes,Yes,1988-07-11,--,Regular,84951
+52,Florence John,55,Commerce,Assistant Professor,Aided Stream ,Female,Ph.D,31.92,Yes,Yes,1999-09-06,--,Regular,84682
+53,Huldah Samuel,41,Maths,Assistant Professor,Aided Stream ,Female,Ph.D,18.0,Yes,Yes,2003-06-16,--,Regular,51025
+54,Sathish Kumar K,31,Maths,Assistant Professor,Aided Stream ,Male,SLET,8.08,Yes,Yes,2014-06-16,--,Regular,72385
+55,Daniel R,39,Physics,Assistant Professor,Aided Stream ,Male,M. Phil,15.83,Yes,Yes,2004-09-16,--,Regular,87026
+56,Janet Priscilla S,39,Physics,Assistant Professor,Aided Stream ,Female,SLET,15.17,Yes,Yes,2005-06-16,--,Regular,39644
+57,Joice Sheeba D,39,Physics,Assistant Professor,Aided Stream ,Female,Ph.D,8.0,Yes,Yes,2012-06-18,--,Regular,41560
+58,Iyyappan E,41,Chemistry,Head Of Department,Aided Stream ,Male,Ph.D,19.0,Yes,Yes,2001-08-01,2018-02-02 00:00:00,Regular,61787
+59,Mary Vergheese T,47,Chemistry,Assistant Professor,Aided Stream ,Female,Ph.D,14.75,Yes,Yes,2008-06-16,2018-03-10 00:00:00,Regular,44686
+60,Rajkumar E,41,Chemistry,Assistant Professor,Aided Stream ,Male,Ph.D,7.17,Yes,Yes,2014-06-16,--,Regular,35900
+61,Joyce Sundandara Priya E,49,Botany,Head Of Department,Aided Stream ,Female,Ph.D,19.83,Yes,Yes,2002-09-01,--,Regular,61346
+62,Leslie Lawrence,56,Botany,Assistant Professor,Aided Stream ,Male,M. Phil,29.25,Yes,Yes,2009-01-01,--,Regular,77616
+63,Allen J Freddy,42,Zoology,Assistant Professor,Aided Stream ,Male,Ph.D,10.08,Yes,Yes,2011-06-13,--,Regular,41170
+64,Niren Andrew S,45,Microbiology,Assistant Professor,Self Finance Stream ,Male,Ph.D,17.08,Yes,Yes,2005-06-13,--,Regular,49939
+65,Franklin Daniel,53,BCA,Associate Professor,Self Finance Stream ,Male,Ph.D,31.67,Yes,Yes,1988-11-10,--,Regular,76319
+66,Ann Thomas,50,English,Assistant Professor,Aided Stream ,Female,Ph.D,19.83,Yes,Yes,2000-09-13,--,Regular,61197
+67,Aruna J,50,English,Assistant Professor,Aided Stream ,Female,SLET,21.17,Yes,Yes,2011-10-03,--,Regular,58963
+68,Ilango N,56,Tamil,Associate Professor,Aided Stream ,Male,Ph.D,24.08,Yes,Yes,1996-06-17,--,Regular,66630
+69,Yagna Sekhar S,54,Languages,Head Of Department,Aided Stream ,Male,Ph.D,23.08,Yes,Yes,1997-06-15,--,Regular,66351
+70,Sujitha B,34,Languages,Assistant Professor,Aided Stream ,Female,NET,8.42,Yes,Yes,2013-02-01,--,Regular,55358
+71,Ashok K,44,History,Assistant Professor,Aided Stream ,Male,NET,15.5,Yes,Yes,2005-01-18,--,Regular,45734
+72,Marilyn Gracey Augustine,35,History,Assistant Professor,Aided Stream ,Female,Ph.D,11.08,Yes,Yes,2009-06-15,--,Regular,42345
+73,Christopher Chandran S D,55,Political Science,Head Of Department,Aided Stream ,Male,Ph.D,31.83,Yes,Yes,1988-09-14,--,Regular,76603
+74,Sudha S,50,Political Science,Associate Professor,Aided Stream ,Female,Ph.D,22.08,Yes,Yes,1999-06-16,--,Regular,59749
+75,Duraisamy A,58,Management,Dean,Self Finance Stream ,Male,Ph.D,29.83,Yes,No,1990-09-20,2016-12-31 00:00:00,Regular,79000
+76,Adeline S,51,Economics,Assistant Professor,Aided Stream ,Female,Ph.D,25.58,Yes,Yes,1997-06-16,--,Regular,70852
+77,Stanley Jebaraj,58,Philosophy,Assistant Professor,Aided Stream ,Male,Ph.D,19.0,Yes,Yes,2002-07-08,--,Regular,61353
+78,Sam Pravin Kumar,32,Philosophy,Assistant Professor,Aided Stream ,Male,SLET,8.58,Yes,Yes,2013-06-17,--,Regular,81390
+79,Prince Solomon Devadas B,42,Social Work,Assistant Professor,Aided Stream ,Male,Ph.D,20.0,Yes,Yes,2000-08-01,--,Regular,61213
+80,Shirmila T,46,Commerce,Assistant Professor,Aided Stream ,Female,Ph.D,23.08,Yes,Yes,1997-09-22,--,Regular,66612
+81,Anli Suresh,53,Commerce,Assistant Professor,Aided Stream ,Female,Ph.D,15.92,Yes,Yes,2004-08-04,--,Regular,46082
+82,Jyothi Salomi Tsapa A,56,Maths,Assistant Professor,Aided Stream ,Female,M. Phil,20.67,Yes,Yes,1999-11-22,--,Regular,39462
+83,Sunil Varma S,40,Maths,Assistant Professor,Aided Stream ,Male,Ph.D,18.08,Yes,Yes,2011-06-13,--,Regular,50224
+84,Joanna Kezia E,43,Statistics,Assistant Professor,Aided Stream ,Female,Ph.D,19.42,Yes,Yes,2003-07-07,--,Regular,60028
+85,Subhashini P,42,PET,Assistant Professor,Self Finance Stream ,Female,SLET,18.33,Yes,Yes,2003-07-07,--,Regular,69644
+86,David Chellakumar S J,45,Physics,Assistant Professor,Aided Stream ,Male,SLET,19.0,Yes,Yes,2001-07-11,2018-01-25 00:00:00,Regular,86236
+87,Larny Mary Jayan,35,Physics,Assistant Professor,Aided Stream ,Female,SLET,11.75,Yes,Yes,2008-09-17,--,Regular,74414
+88,Paul Wilson,51,Mathematics,Principal,Self Finance Stream ,Male,Ph.D,20.0,Yes,Yes,2004-06-14,--,Regular,63984
+89,Jaba Priya T,37,Chemistry,Assistant Professor,Aided Stream ,Female,Ph.D,15.08,Yes,Yes,2005-06-05,--,Regular,47483
+90,Prabhu N,42,Chemistry,Assistant Professor,Aided Stream ,Male,Ph.D,6.17,Yes,Yes,2014-06-16,--,Regular,41000
+91,Abraham Immanuel Ebenezer G,57,Management,Dean,Self Finance Stream ,Male,Ph.D,30.67,Yes,Yes,1989-11-20,2018-03-10 00:00:00,Regular,56466
+92,Selva Singh Richard P,40,Botany,Assistant Professor,Aided Stream ,Male,Ph.D,15.08,Yes,Yes,2005-06-15,--,Regular,47142
+93,Babu B,47,Botany,Assistant Professor,Aided Stream ,Male,Ph.D,7.08,Yes,Yes,2013-06-13,--,Regular,35900
+94,Logamanya Tilak J,48,Zoology,Assistant Professor,Aided Stream ,Male,Ph.D,15.08,Yes,Yes,2005-06-15,--,Regular,46110
+95,Mahalakshmi Velrajan,49,Microbiology,Assistant Professor,Self Finance Stream ,Female,Ph.D,23.25,Yes,Yes,2004-06-24,--,Regular,65260
+96,Premina S,39,Microbiology,Assistant Professor,Self Finance Stream ,Female,M. Phil,15.67,Yes,Yes,2008-11-18,--,Regular,84223
+97,Jeyaselvi N,45,English,Assistant Professor,Aided Stream ,Female,Ph.D,22.0,Yes,Yes,1998-07-10,--,Regular,63122
+98,Phebe Angus G,39,English,Assistant Professor,Aided Stream ,Female,NET,15.58,Yes,Yes,2008-09-01,--,Regular,76579
+99,Arun Kumar J,29,English,Assistant Professor,Aided Stream ,Male,SLET,6.83,Yes,Yes,2013-08-02,--,Regular,58356
+100,Savarimuthu S,59,Physics,Associate Professor,Self Finance Stream ,Male,Ph.D,27.92,Yes,No,1992-08-12,31-11-2016,Regular,82000
+101,Livingstone C,45,Languages,Associate Professor,Aided Stream ,Male,NET,21.75,Yes,Yes,1998-10-06,--,Regular,53218
+102,Surendran Purushotham,58,PET,Associate Professor,Self Finance Stream ,Male,Ph.D,27.58,Yes,No,1993-01-05,2016-10-31 00:00:00,Regular,89500
+103,Sheba R,54,History,Assistant Professor,Aided Stream ,Female,Ph.D,11.5,Yes,Yes,2009-01-05,--,Regular,42527
+104,Lawrence S Prabhakar W,56,PET,Associate Professor,Self Finance Stream ,Male,Ph.D,34.92,Yes,No,1986-09-08,2016-10-10 00:00:00,Regular,92455
+105,Paul Prabhu Santharaj Y,55,Tamil,Assistant Professor,Aided Stream ,Male,Ph.D,24.42,Yes,Yes,1995-02-01,--,Regular,66885
+106,Vidya R,34,Political Science,Assistant Professor,Aided Stream ,Female,NET,8.92,Yes,Yes,2012-06-16,--,Regular,52344
+107,Vijay Devanesan,45,PET,Assistant Professor,Self Finance Stream ,Male,Ph.D,14.08,Yes,Yes,2006-06-12,--,Regular,41240
+108,Jacquline Raja Bai,55,Economics,Head Of Department,Aided Stream ,Female,Ph.D,28.17,Yes,Yes,1992-06-01,--,Regular,71759
+109,Arun Koshy,38,Economics,Assistant Professor,Aided Stream ,Male,NET,12.08,Yes,Yes,2008-06-16,--,Regular,45474
+110,Segar S,48,PET,Assistant Professor,Self Finance Stream ,Male,Ph.D,13.58,Yes,Yes,2008-06-15,--,Regular,43550
+111,Miriam Samuel K,56,Social Work,Head Of Department,Aided Stream ,Female,Ph.D,32.75,Yes,Yes,1989-10-14,--,Regular,83932
+112,Hannah Frederick,54,Commerce,Associate Professor,Aided Stream ,Female,Ph.D,29.0,Yes,Yes,1991-08-08,--,Regular,71676
+113,Janet E John,51,Commerce,Assistant Professor,Aided Stream ,Female,NET,23.08,Yes,Yes,2002-08-13,--,Regular,77561
+114,Robinson T,55,Maths,Head Of Department,Aided Stream ,Male,Ph.D,33.83,Yes,Yes,1987-08-01,--,Regular,74455
+115,Jayaseelan Samuel D,40,Maths,Assistant Professor,Aided Stream ,Male,Ph.D,17.33,Yes,Yes,2004-07-19,--,Regular,52941
+116,Josiah Solomon N,53,PET,Assistant Professor,Self Finance Stream ,Male,M. Phil,32.08,Yes,Yes,1988-07-01,--,Regular,38382
+117,Joshua David,36,Statistics,Assistant Professor,Aided Stream ,Male,Ph.D,10.08,Yes,Yes,2010-06-15,--,Regular,41884
+118,Johanan Christian Prasana,51,Physics,Associate Professor,Aided Stream ,Male,Ph.D,30.0,Yes,Yes,1994-11-25,--,Regular,82729
+119,Selvakumari D,42,Physics,Assistant Professor,Aided Stream ,Female,Ph.D,20.25,Yes,Yes,2008-06-16,--,Regular,61783
+120,Karthikeyan S,44,Physics,Assistant Professor,Aided Stream ,Male,Ph.D,11.33,Yes,Yes,2014-06-16,--,Regular,42426
+121,Nimmy Edwin,41,Chemistry,Assistant Professor,Aided Stream ,Female,NET,18.0,Yes,Yes,2002-08-01,--,Regular,38290
+122,Kavitha R,44,Chemistry,Assistant Professor,Aided Stream ,Female,NET,18.08,Yes,Yes,2008-10-23,--,Regular,70881
+123,Reuben Jonathan D,43,Chemistry,Assistant Professor,Aided Stream ,Male,Ph.D,17.92,Yes,Yes,2014-06-16,--,Regular,57486
+124,Ravi Shankar S,45,Botany,Assistant Professor,Aided Stream ,Male,Ph.D,17.0,Yes,Yes,2006-08-01,--,Regular,51650
+125,Anu Annamma Mammen,37,Botany,Assistant Professor,Aided Stream ,Female,NET,11.08,Yes,Yes,2009-06-15,--,Regular,76807
+126,Joyce Priyakumari C,54,Zoology,Head Of Department,Aided Stream ,Female,Ph.D,25.83,Yes,Yes,1994-10-01,--,Regular,70568
+127,Kavitha K,44,Microbiology,Assistant Professor,Self Finance Stream ,Female,Ph.D,23.42,Yes,Yes,2005-09-26,2018-03-17 00:00:00,Regular,65263
+128,Sundaralingam R,40,PET,Assistant Professor,Self Finance Stream ,Male,SLET,16.08,Yes,Yes,2008-06-16,--,Regular,40947
+129,Sathish Kumar Thanikachalam,44,PET,Assistant Professor,Self Finance Stream ,Male,Ph.D,17.0,Yes,Yes,2012-07-25,--,Regular,54415
+130,Prabu S J,46,PET,Assistant Professor,Self Finance Stream ,Male,Ph.D,17.0,Yes,Yes,2006-07-04,--,Regular,56569
+131,Sudarvizhi J,42,Tamil,Assistant Professor,Aided Stream ,Female,Ph.D,17.08,Yes,Yes,2003-06-16,--,Regular,54111
+132,Jayalakshmi V,48,Languages,Professor,Self Finance Stream ,Female,Ph.D,13.08,Yes,Yes,2007-07-04,--,Regular,41000
+133,Charlet Christina Rajakumari,39,Commerce,Assistant Professor,Aided Stream ,Female,Ph.D,17.0,Yes,Yes,2003-07-07,--,Regular,51925
+134,Shirley Devakirubai T,37,Commerce,Assistant Professor,Self Finance Stream ,Female,Ph.D,11.42,Yes,Yes,2009-10-16,--,Regular,41997
+135,Joseph G,46,Commerce,Assistant Professor,Self Finance Stream ,Male,SLET,15.58,Yes,Yes,2012-06-18,--,Regular,89662
+136,Baily Vincent,37,Social Work,Assistant Professor,Self Finance Stream ,Female,Ph.D,15.58,Yes,Yes,2006-06-14,--,Regular,45039
+137,Thendral M,36,Social Work,Assistant Professor,Self Finance Stream ,Female,NET,12.0,Yes,Yes,2008-12-01,--,Regular,35254
+138,Millicent Serena  A,35,Zoology,Assistant Professor,Aided Stream ,Female,Ph.D,13.08,Yes,Yes,2012-06-18,--,Regular,41200
+139,Persis Glory P,38,BCA,Assistant Professor,Self Finance Stream ,Female,Ph.D,15.67,Yes,Yes,2007-08-13,--,Regular,47126
+140,Punithavathy E,31,BCA,Assistant Professor,Self Finance Stream ,Female,NET,7.17,Yes,Yes,2013-06-18,--,Regular,38814
+141,Minnie D,52,MCA,Head Of Department,Self Finance Stream ,Female,Ph.D,28.58,Yes,Yes,1994-06-20,--,Regular,71138
+142,Shiny Priyadarshini J,34,MCA,Assistant Professor,Self Finance Stream ,Female,MCA,11.5,Yes,Yes,2010-01-11,--,Regular,74572
+143,Kanikkaraju N,44,Tamil,Assistant Professor,Aided Stream ,Male,Ph.D,20.25,Yes,Yes,2009-07-17,--,Regular,61033
+144,Deepa S P,39,Statistics,Assistant Professor,Aided Stream ,Female,Ph.D,13.08,Yes,Yes,2016-06-13,--,Regular,41200
+145,Adline Jennefa Daniel,32,Zoology,Assistant Professor,Aided Stream ,Female,SLET,10.08,Yes,Yes,2010-06-16,--,Regular,39109
+146,Chitra V,50,History,Head Of Department,Aided Stream ,Female,Ph.D,16.08,Yes,Yes,2005-06-22,--,Regular,47444
+147,Sreedevi K C,33,History,Assistant Professor,Aided Stream ,Female,NET,5.67,Yes,Yes,2016-09-01,--,Regular,82016
+148,Aulice Scibioh M,51,Chemistry,Assistant Professor,Aided Stream ,Female,Ph.D,19.83,Yes,Yes,2016-06-13,--,Regular,61141
+149,Gnanasekaran G,34,Botany,Assistant Professor,Aided Stream ,Male,Ph.D,4.0,Yes,Yes,2016-07-13,--,Regular,35000
+150,Ponnancy S,37,Physics,Professor,Self Finance Stream ,Female,SLET,13.92,Yes,Yes,2013-06-15,--,Regular,62929
+151,Ramakrishnan S,43,Economics,Assistant Professor,Aided Stream ,Male,Ph.D,16.08,Yes,Yes,2016-06-13,--,Regular,45867
+152,Irwin Varghese,30,Zoology,Assistant Professor,Aided Stream ,Male,SLET,4.5,Yes,Yes,2016-01-04,--,Regular,71815
+153,Vijay Solomon R,34,Chemistry,Assistant Professor,Aided Stream ,Male,Ph.D,4.08,Yes,Yes,2016-06-13,--,Regular,35250
+154,Madhana Rekha B,52,Zoology,Assistant Professor,Aided Stream ,Female,Ph.D,18.5,Yes,Yes,2016-08-19,--,Regular,59806
+155,Adarsh Vijay,26,Zoology,Assistant Professor,Aided Stream ,Male,NET,3.08,Yes,Yes,2017-06-12,--,Regular,40993
+156,Ruby Jenifer E,30,Maths,Assistant Professor,Aided Stream ,Female,SLET,7.08,Yes,Yes,2017-06-12,--,Regular,66963
+157,Akila G,38,Tamil,Assistant Professor,Self Finance Stream ,Female,Ph.D,3.17,Yes,Yes,2017-05-19,--,Regular,28100
+158,Sweetiline Priya E,34,BCA,Assistant Professor,Self Finance Stream ,Female,SLET,3.08,Yes,Yes,2017-06-12,--,Regular,40073
+159,Hemalatha N N,27,English,Assistant Professor,Self Finance Stream ,Female,NET,5.25,Yes,Yes,2015-08-24,--,Regular,55337
+160,Abirami S,40,Microbiology,Assistant Professor,Self Finance Stream ,Female,M. Phil,15.25,Yes,Yes,2008-11-17,--,Regular,43980
+161,Balakumar K,48,Microbiology,Assistant Professor,Self Finance Stream ,Male,SLET,17.17,Yes,Yes,2013-06-15,--,Regular,65628
+162,Sathasivam S,46,Zoology,Assistant Professor,Aided Stream ,Male,Ph.D,11.08,Yes,Yes,2009-06-14,--,Regular,42257
+163,Merin Wilson P,34,English,Assistant Professor,Aided Stream ,Female,NET,7.92,Yes,Yes,2013-06-17,--,Regular,86184
+164,Nirmala Mohan,51,Commerce,Associate Professor,Self Finance Stream ,Female,Ph.D,26.0,Yes,Yes,2001-08-10,--,Regular,70776
+165,Menaka M,40,Social Work,Assistant Professor,Self Finance Stream ,Female,SLET,14.58,Yes,Yes,2009-06-15,--,Regular,59625
+166,Ramala Singh D,33,Commerce,Assistant Professor,Self Finance Stream ,Female,NET,7.08,Yes,Yes,2013-06-17,--,Regular,38303
+167,Mohan Raj R,43,Social Work,Assistant Professor,Self Finance Stream ,Male,NET,16.25,Yes,Yes,2009-07-02,--,Regular,83095
+168,Sylvia Daisy A,43,Social Work,Assistant Professor,Self Finance Stream ,Female,Ph.D,14.92,Yes,Yes,2007-08-13,--,Regular,47250
+169,Sorna Kumari N,39,Commerce,Assistant Professor,Self Finance Stream ,Female,Ph.D,15.67,Yes,Yes,2013-06-15,--,Regular,46302
+170,Karthik R,42,Zoology,Assistant Professor,Aided Stream ,Male,NET,11.75,Yes,Yes,2008-10-06,--,Regular,40919
+171,Padma Prabha D,43,BCA,Assistant Professor,Self Finance Stream ,Female,M. Phil,19.5,Yes,Yes,2009-06-15,--,Regular,51483
+172,Shimi G,43,BCA,Assistant Professor,Self Finance Stream ,Female,SLET,11.0,Yes,Yes,2014-06-16,--,Regular,75370
+173,Johanna Johnsi Rani  G,57,MCA,Head Of Department,Self Finance Stream ,Female,NET,32.92,Yes,Yes,1993-09-20,--,Regular,74496
+174,Haridoss V,43,Statistics,Assistant Professor,Aided Stream ,Male,Ph.D,16.58,Yes,Yes,2016-06-13,--,Regular,45410
+175,Aruna P,35,Statistics,Assistant Professor,Aided Stream ,Female,Ph.D,7.83,Yes,Yes,2016-06-13,--,Regular,41200
+176,Prathiba S,38,Mathematics,Assistant Professor,Self Finance Stream ,Female,M. Phil,15.42,Yes,Yes,2007-07-02,--,Regular,40835
+177,Jayapradaban P,38,History,Assistant Professor,Aided Stream ,Male,SLET,4.92,Yes,Yes,2016-08-19,--,Regular,63960
+178,Sahila S,36,Chemistry,Assistant Professor,Self Finance Stream ,Female,NET,6.83,Yes,Yes,2015-06-15,--,Regular,42461
+179,Sankaranarayana N R,47,Social Work,Assistant Professor,Self Finance Stream ,Male,Ph.D,13.58,Yes,Yes,2012-07-06,--,Regular,40280
+180,Wilfred Prasanna S,37,Physics,Assistant Professor,Self Finance Stream ,Male,Ph.D,4.58,Yes,Yes,2016-09-27,--,Regular,33900
+181,Lavanya M,33,Zoology,Assistant Professor,Aided Stream ,Female,NET,5.67,Yes,No,2015-07-16,2017-01-25 00:00:00,Regular,35600
+182,Yesudoss P,48,Admin,Other,Self Finance Stream ,Male,Ph.D,22.08,Yes,Yes,2012-08-13,--,Regular,62172
+183,Indumathi S,35,English,Assistant Professor,Self Finance Stream ,Female,SLET,10.92,Yes,Yes,2015-06-15,--,Regular,53077
+184,Hannah Clara T,39,Physics,Head Of Department,Self Finance Stream ,Female,M. Phil,15.5,Yes,Yes,2006-12-01,--,Regular,63754
+185,Daniel Abraham,32,Chemistry,Assistant Professor,Self Finance Stream ,Male,Ph.D,9.92,Yes,Yes,2016-11-28,--,Regular,36564
+186,David Wesley M,36,Zoology,Assistant Professor,Aided Stream ,Male,Ph.D,6.0,Yes,Yes,2016-06-13,--,Regular,40060
+187,Vivek R,26,History,Assistant Professor,Aided Stream ,Male,NET,2.58,Yes,No,2017-11-20,2017-01-20 00:00:00,Regular,31000
+188,Nithaniyal Stalin,31,Mathematics,Assistant Professor,Aided Stream ,Male,Ph.D,2.75,Yes,No,2017-09-01,2017-02-05 00:00:00,Regular,29500
+189,Shiny Issac,32,Commerce,Assistant Professor,Self Finance Stream ,Female,SLET,5.0,Yes,Yes,2017-06-12,--,Regular,39386
+190,Deborah Raj,32,Communication,Assistant Professor,Self Finance Stream ,Female,NET,8.17,Yes,Yes,2017-05-19,--,Regular,60422
+191,Nishanthi J S,30,Zoology,Assistant Professor,Aided Stream ,Female,M.A,7.0,Yes,Yes,2016-06-23,--,Regular,66563
+192,Stelin  S,37,Maths,Assistant Professor,Aided Stream ,Female,Ph.D,3.08,Yes,Yes,2017-06-12,--,Regular,26990
+193,Benny Thomas J,37,PET,Assistant Professor,Self Finance Stream ,Male,Ph.D,2.08,Yes,Yes,2017-06-30,--,Regular,22500
+194,Hanumantha Rao P,45,Microbiology,Head Of Department,Self Finance Stream ,Male,Ph.D,24.08,Yes,Yes,2012-07-25,--,Regular,65495
+195,Amaldoss Robinson Jebakumar  F,42,PET,Assistant Professor,Self Finance Stream ,Male,NET,12.92,Yes,Yes,2008-08-11,--,Regular,38649
+196,Samuel D,40,Tamil,Professor,Self Finance Stream ,Male,M. Phil,12.08,Yes,Yes,2008-06-11,--,Regular,78868
+197,Daniel J David,54,English,Head Of Department,Self Finance Stream ,Male,M. Phil,25.33,Yes,Yes,2006-09-01,--,Regular,90669
+198,Manikandan B,34,PET,Assistant Professor,Self Finance Stream ,Male,NET,8.58,Yes,Yes,2014-06-16,--,Regular,84290
+199,Zeenath Zarina N,38,Social Work,Assistant Professor,Self Finance Stream ,Female,Ph.D,12.92,Yes,Yes,2008-06-16,--,Regular,40339
+200,Maheswari G,36,Commerce,Assistant Professor,Self Finance Stream ,Female,Ph.D,10.33,Yes,Yes,2012-12-05,--,Regular,41458
+201,Belinda R,42,Social Work,Head Of Department,Self Finance Stream ,Female,Ph.D,19.92,Yes,Yes,2002-06-06,--,Regular,58300
+202,Alban Nishanth Lalu G F,38,Social Work,Assistant Professor,Self Finance Stream ,Male,Ph.D,14.67,Yes,Yes,2007-06-26,--,Regular,45595
+203,Naomi Lawrence,38,Social Work,Assistant Professor,Self Finance Stream ,Female,NET,12.08,Yes,Yes,2009-06-15,--,Regular,67517
+204,Mahima Jane E,37,BCA,Assistant Professor,Self Finance Stream ,Female,Ph.D,12.17,Yes,Yes,2008-06-16,--,Regular,42600
+205,Shobana G,42,BCA,Assistant Professor,Self Finance Stream ,Female,SLET,16.83,Yes,Yes,2014-06-16,--,Regular,68814
+206,Feminna Sheeba,53,MCA,Assistant Professor,Self Finance Stream ,Female,SLET,29.83,Yes,Yes,1995-07-26,--,Regular,50436
+207,Felicia Rajathi P,35,MCA,Assistant Professor,Self Finance Stream ,Female,MCA,10.17,Yes,Yes,2009-09-07,--,Regular,77552
+208,Muthukandhan S,39,PET,Assistant Professor,Self Finance Stream ,Male,Ph.D,8.58,Yes,Yes,2013-12-04,--,Regular,36685
+209,Jabarali A,31,Statistics,Assistant Professor,Aided Stream ,Male,Ph.D,5.0,Yes,Yes,2016-06-13,--,Regular,34600
+210,Lalitha Lavanya P,33,Zoology,Assistant Professor,Aided Stream ,Female,SLET,6.67,Yes,Yes,2015-06-15,--,Regular,83551
+211,Gopalakrishnan B,27,PET,Assistant Professor,Self Finance Stream ,Male,M.A,4.42,Yes,Yes,2016-02-11,--,Regular,72549
+212,Kalyani S,41,PET,Assistant Professor,Self Finance Stream ,Female,Ph.D,9.33,Yes,Yes,2016-08-19,--,Regular,38508
+213,Subashini P,41,Physics,Assistant Professor,Aided Stream ,Female,SLET,13.58,Yes,Yes,2009-07-29,--,Regular,76141
+214,Ranjith Kumar R,41,Botany,Assistant Professor,Aided Stream ,Male,Ph.D,9.92,Yes,Yes,2016-06-13,--,Regular,38401
+215,Shophana R,39,PET,Assistant Professor,Self Finance Stream ,Female,Ph.D,12.08,Yes,Yes,2015-06-15,--,Regular,42500
+216,Anuradha A J,39,Commerce,Assistant Professor,Self Finance Stream ,Female,Ph.D,13.08,Yes,Yes,2009-06-15,--,Regular,39050
+217,Justin Thomas Philip,31,PET,Assistant Professor,Self Finance Stream ,Male,NET,8.0,Yes,No,2012-06-13,011-02-2017,Regular,42000
+218,Jobin Joy,34,PET,Assistant Professor,Self Finance Stream ,Male,SLET,4.0,Yes,Yes,2016-06-15,--,Regular,36347
+219,Veda Valli M K,37,PET,Assistant Professor,Self Finance Stream ,Female,SLET,15.08,Yes,Yes,2013-06-15,--,Regular,34224
+220,Vijayasarathy M,38,Philosophy,Assistant Professor,Aided Stream ,Male,Ph.D,5.75,Yes,Yes,2016-06-13,--,Regular,30100
+221,Eunice Catherine S,27,English,Assistant Professor,Self Finance Stream ,Female,NET,3.83,Yes,Yes,2016-09-15,--,Regular,29400
+222,Revathi B K,34,Philosophy,Assistant Professor,Self Finance Stream ,Female,Ph.D,4.5,Yes,No,2016-09-06,2017-01-12 00:00:00,Regular,34600
+223,Shobana Karthikeyan,39,Economics,Assistant Professor,Aided Stream ,Female,Ph.D,3.08,Yes,Yes,2017-06-19,--,Regular,25000
+224,Jesse P Francis,28,Mathematics,Assistant Professor,Self Finance Stream ,Female,NET,2.92,Yes,No,2017-07-07,2017-04-01 00:00:00,Regular,31640
+225,Anne Pauline,39,PET,Assistant Professor,Self Finance Stream ,Female,Ph.D,3.0,Yes,No,2017-06-09,2017-02-11 00:00:00,Regular,29800
+226,Immaculate Sivaraj,38,Languages,Professor,Self Finance Stream ,Female,NET,2.92,Yes,Yes,2017-08-28,--,Regular,25200
+227,Jhansi D,25,Commerce,Assistant Professor,Self Finance Stream ,Female,NET,2.75,Yes,Yes,2017-11-20,--,Regular,25000
+228,Blessing Muinao,29,PET,Assistant Professor,Self Finance Stream ,Male,NET,3.08,Yes,Yes,2017-06-12,--,Regular,25100
+229,Sebulon Prabudurai T,41,Tamil,Assistant Professor,Aided Stream ,Male,SLET,4.08,Yes,Yes,2016-06-15,--,Regular,35600
+230,Vedha V,50,Microbiology,Assistant Professor,Self Finance Stream ,Female,Ph.D,18.0,Yes,Yes,2013-06-15,--,Regular,57447
+231,James Zachariah,43,PET,Head Of Department,Self Finance Stream ,Male,Ph.D,20.0,Yes,Yes,2003-07-20,--,Regular,63228
+232,Vilvarani V,41,Tamil,Head Of Department,Self Finance Stream ,Female,Ph.D,13.92,Yes,Yes,2010-06-29,--,Regular,42100
+233,Christina Dhanasekaran,33,English,Assistant Professor,Aided Stream ,Female,NET,8.92,Yes,Yes,2010-06-15,--,Regular,37900
+234,Annet Pearl,48,Commerce,Head Of Department,Self Finance Stream ,Female,Ph.D,22.0,Yes,Yes,2004-07-19,--,Regular,61471
+235,Johanna Jasmine P,39,Commerce,Assistant Professor,Self Finance Stream ,Female,NET,12.17,Yes,Yes,2009-07-28,--,Regular,46030
+236,Saravana Kumaran A,45,Commerce,Assistant Professor,Self Finance Stream ,Male,NET,15.08,Yes,Yes,2015-06-15,--,Regular,48900
+237,Janice C M,48,Chemistry,Assistant Professor,Aided Stream ,Female,Ph.D,16.83,Yes,Yes,2005-06-13,--,Regular,53992
+238,Joshua Jayaseelan N,41,Social Work,Assistant Professor,Self Finance Stream ,Male,Ph.D,7.92,Yes,Yes,2013-06-17,--,Regular,37900
+239,Subaniya Sarah K,44,Chemistry,Assistant Professor,Aided Stream ,Female,NET,13.08,Yes,Yes,2009-06-15,--,Regular,43620
+240,Sathiya Priya D,44,BCA,Head Of Department,Self Finance Stream ,Female,M. Phil,18.92,Yes,Yes,2006-06-21,--,Regular,44050
+241,Padmamala R,42,BCA,Assistant Professor,Self Finance Stream ,Female,Ph.D,12.0,Yes,Yes,2015-06-15,--,Regular,43500
+242,Christopher Charles,52,MCA,Assistant Professor,Self Finance Stream ,Male,MCA,21.75,Yes,Yes,1999-06-14,--,Regular,61500
+243,Udhyaraj G,31,English,Assistant Professor,Aided Stream ,Male,NET,7.08,Yes,Yes,2013-06-17,--,Regular,38500
+244,Kumarapandian G,31,Statistics,Assistant Professor,Aided Stream ,Male,Ph.D,5.33,Yes,Yes,2016-06-13,--,Regular,36800
+245,Pari Dayal L,44,Statistics,Assistant Professor,Aided Stream ,Male,Ph.D,19.5,Yes,Yes,2016-06-13,--,Regular,60113
+246,Viswanath J M,43,Admin,Other,Self Finance Stream ,Male,Ph.D,10.17,Yes,Yes,2010-06-16,--,Regular,41900
+247,Sadasivam P,34,History,Assistant Professor,Aided Stream ,Male,NET,6.0,Yes,Yes,2016-08-23,--,Regular,38600
+248,Amirthavalli C,47,Chemistry,Assistant Professor,Aided Stream ,Female,Ph.D,17.67,Yes,Yes,2002-10-01,--,Regular,48278
+249,Raja Sornam J,39,Tamil,Assistant Professor,Self Finance Stream ,Female,Ph.D,4.08,Yes,Yes,2016-06-20,--,Regular,35060
+250,Christina Jebapriya J,37,Physics,Assistant Professor,Self Finance Stream ,Female,M. Phil,11.08,Yes,Yes,2009-07-29,--,Regular,40030
+251,Kavitha V P,29,Chemistry,Assistant Professor,Aided Stream ,Female,NET,4.0,Yes,Yes,2016-09-01,--,Regular,35000
+252,Esther Hebrews L,32,English,Assistant Professor,Self Finance Stream ,Female,NET,7.42,Yes,Yes,2013-06-13,--,Regular,36700
+253,Kowsalya K R,28,Commerce,Assistant Professor,Self Finance Stream ,Female,SLET,5.08,Yes,Yes,2016-06-15,--,Regular,32060
+254,Sugirdharajan C,35,Philosophy,Assistant Professor,Aided Stream ,Male,NET,4.58,Yes,Yes,2016-06-13,--,Regular,35990
+255,Pavithra Mahendran,34,English,Assistant Professor,Self Finance Stream ,Female,NET,3.67,Yes,Yes,2016-11-21,--,Regular,33810
+256,Michael Raj R,32,PET,Assistant Professor,Self Finance Stream ,Male,NET,5.92,Yes,Yes,2015-06-15,--,Regular,35910
+257,Samuel Moses Srinivas,39,English,Assistant Professor,Self Finance Stream ,Male,NET,11.25,Yes,Yes,2010-06-14,--,Regular,45740
+258,Anitharaj M S,25,Chemistry,Assistant Professor,Aided Stream ,Female,NET,3.0,Yes,Yes,2017-06-12,--,Regular,22800
+259,Jeevitha G,30,Chemistry,Assistant Professor,Aided Stream ,Female,M. Phil,2.83,Yes,No,2017-08-04,2017-02-19 00:00:00,Regular,31200
+260,Renuga Varshini V,25,Chemistry,Assistant Professor,Aided Stream ,Female,M.Sc.,2.92,Yes,Yes,2017-06-12,--,Regular,20800
+261,Ashik Bonofer J,39,Political Science,Assistant Professor,Aided Stream ,Male,Ph.D,15.58,Yes,Yes,2014-06-16,--,Regular,46158
+262,Anulin Christudhas,37,Zoology,Assistant Professor,Aided Stream ,Female,Ph.D,1.58,No,Yes,2018-06-19,--,Regular,27300
+263,Mohanchander P,34,Chemistry,Assistant Professor,Aided Stream ,Male,Ph.D,3.08,No,Yes,2018-08-06,--,Regular,26990
+264,Emil Manu Oomen,29,Chemistry,Assistant Professor,Aided Stream ,Male,SLET,4.0,No,No,2018-06-18,2017-02-02 00:00:00,Regular,34644
+265,Abhishek Krishnamoorthy,26,Maths,Assistant Professor,Aided Stream ,Male,NET,1.58,No,Yes,2018-12-27,--,Regular,28000
+266,Jayakodi G,29,Microbiology,Assistant Professor,Self Finance Stream ,Female,M. Phil,6.08,Yes,No,2019-02-05,2017-01-01 00:00:00,Regular,45600
+267,Jayapriya V,24,Botany,Assistant Professor,Self Finance Stream ,Female,SLET,2.08,Yes,No,2018-06-19,2017-02-01 00:00:00,Regular,29000
+268,Bersiya Grace,31,English,Assistant Professor,Self Finance Stream ,Female,SLET,7.08,No,Yes,2018-06-11,--,Regular,35000
+269,Deborah Mercy Bai,34,Botany,Assistant Professor,Self Finance Stream ,Female,M.Sc.,5.0,Yes,Yes,2015-07-01,--,Regular,32050
+270,Chinna Muthu B,28,Commerce,Assistant Professor,Aided Stream ,Male,Ph.D,2.08,No,Yes,2018-06-11,--,Regular,25900
+271,Deepa P,41,Mathematics,Professor,Self Finance Stream ,Female,Ph.D,13.83,Yes,Yes,2018-06-11,--,Regular,42694
+272,Ancelin L,38,Mathematics,Professor,Self Finance Stream ,Female,SLET,14.67,Yes,Yes,2018-06-10,--,Regular,45000
+273,Lavanya Suja T,43,BCA,Assistant Professor,Self Finance Stream ,Female,SLET,18.92,Yes,Yes,2018-06-11,--,Regular,60800
+274,Rakesh S,25,Commerce,Assistant Professor,Self Finance Stream ,Male,M. Phil,3.0,Yes,No,2018-06-18,2017-01-10 00:00:00,Regular,35644
+275,Liya Elsa Stephen,26,Commerce,Assistant Professor,Self Finance Stream ,Female,NET,2.08,Yes,Yes,2018-06-11,--,Regular,25000
+276,Suganya N,25,Commerce,Assistant Professor,Self Finance Stream ,Female,NET,2.08,Yes,Yes,2018-06-27,--,Regular,25000
+277,Ghayathri A,29,Commerce,Assistant Professor,Self Finance Stream ,Female,NET,4.08,Yes,Yes,2019-01-07,--,Regular,36800
+278,Rajini S,43,Botany,Assistant Professor,Self Finance Stream ,Female,SET,13.83,Yes,Yes,2019-12-12,--,Regular,45600
+279,Gughan Babu A,33,History,Assistant Professor,Aided Stream ,Male,Ph.D,7.0,Yes,Yes,2020-02-04,--,Regular,37090
+280,Milton Devadayavu N,39,Botany,Head Of Department,Self Finance Stream ,Male,Ph.D,14.33,Yes,Yes,2019-12-12,--,Regular,46794
+281,Sagathevan,39,Economics,Assistant Professor,Aided Stream ,Male,Ph.D,10.0,Yes,Yes,2019-12-16,--,Regular,41620
+282,Bins Sebastian,35,Philosophy,Assistant Professor,Aided Stream ,Male,Ph.D,2.5,Yes,Yes,2019-12-12,--,Regular,26700
+283,Joshua Solomon,24,Botany,Assistant Professor,Self Finance Stream ,Male,NET,1.42,Yes,Yes,2020-09-21,--,Regular,22000
+284,Vengadachalam K,34,Philosophy,Assistant Professor,Aided Stream ,Male,Ph.D,3.33,Yes,Yes,2019-12-12,--,Regular,26500
+285,Vijayanand V,34,Botany,Assistant Professor,Self Finance Stream ,Male,NET,1.0,Yes,Yes,2020-02-11,--,Regular,22100
+286,Gowtham R,24,Botany,Assistant Professor,Self Finance Stream ,Male,M.COM,1.42,Yes,No,2019-06-19,2017-01-05 00:00:00,Regular,25000
+287,Muthukumar V,34,Commerce,Assistant Professor,Aided Stream ,Male,Ph.D,10.67,Yes,Yes,2019-12-16,--,Regular,42060
+288,Daniel Evans S,31,Maths,Assistant Professor,Aided Stream ,Male,Ph.D,0.67,Yes,Yes,2019-12-12,--,Regular,21900
+289,Senthil Kumar R,42,Statistics,Assistant Professor,Aided Stream ,Male,Ph.D,15.58,Yes,Yes,2019-12-12,--,Regular,45096
+290,Salomi M,32,Statistics,Assistant Professor,Aided Stream ,Female,Ph.D,5.58,Yes,Yes,2019-08-01,--,Regular,35600
+291,Nirmal Thyagu N,39,Physics,Assistant Professor,Aided Stream ,Male,Ph.D,5.25,Yes,Yes,2019-12-18,--,Regular,35900
+292,Ramesh Kumar C,42,Chemistry,Assistant Professor,Aided Stream ,Male,Ph.D,8.17,Yes,Yes,2019-12-16,--,Regular,39500
+293,Reji J V,49,Botany,Assistant Professor,Aided Stream ,Male,Ph.D,23.42,Yes,Yes,2020-02-05,--,Regular,66624
+294,Akila M,42,Zoology,Assistant Professor,Aided Stream ,Female,Ph.D,6.08,Yes,Yes,2018-06-20,--,Regular,36120
+295,Sunil Kumar K,36,Zoology,Assistant Professor,Aided Stream ,Male,Ph.D,1.0,Yes,Yes,2019-12-12,--,Regular,22600
+296,Christy Lite,30,Commerce,Assistant Professor,Self Finance Stream ,Male,Ph.D,0.92,Yes,No,2019-06-17,2017-02-01 00:00:00,Regular,22000
+297,Elisha Benjamin J B,38,Social Work,Assistant Professor,Self Finance Stream ,Male,Ph.D,6.67,Yes,No,2019-07-03,2017-03-01 00:00:00,Regular,39500
+298,Anita Pearline Esther A,48,BCA,Assistant Professor,Self Finance Stream ,Female,Ph.D,23.0,Yes,Yes,2020-02-11,--,Regular,65692
+299,Supraja Prasad,25,Physics,Assistant Professor,Self Finance Stream ,Female,NET,3.25,Yes,No,2019-06-17,2017-02-11 00:00:00,Regular,21300
+300,Sandrella Betresa,26,BCA,Assistant Professor,Self Finance Stream ,Female,NET,4.5,Yes,Yes,2019-06-17,--,Adhoc / Contractual,33060
+301,Vasupradha Srikrishna,35,Communication,Assistant Professor,Self Finance Stream ,Female,Ph.D,6.0,Yes,Yes,2019-06-17,--,Regular,37400
+302,Janet Mary S,47,Communication,Head Of Department,Self Finance Stream ,Female,Ph.D,12.33,Yes,Yes,2019-06-17,--,Regular,41600
+303,Vijayalakshmi K,36,Chemistry,Head Of Department,Self Finance Stream ,Female,Ph.D,14.0,Yes,Yes,2019-06-17,--,Regular,43121
+304,Freny Joy K M,42,BCA,Assistant Professor,Self Finance Stream ,Female,Ph.D,15.42,Yes,Yes,2019-06-17,--,Regular,46654
+305,Sachin Benner Raj V,23,BCA,Assistant Professor,Self Finance Stream ,Male,M.A,0.67,Yes,Yes,2019-11-18,--,Regular,18200
+306,Hepsibah Kenneth P,38,BCA,Assistant Professor,Self Finance Stream ,Female,M. Phil,5.75,Yes,Yes,2019-06-17,--,Regular,29600
+307,Sweatha D,24,BCA,Assistant Professor,Self Finance Stream ,Female,NET,2.17,Yes,Yes,2020-01-07,--,Regular,23000
+308,Hannah Blasiyus,24,BCA,Assistant Professor,Self Finance Stream ,Female,M. Phil,2.17,Yes,Yes,2020-01-07,--,Regular,21300
+309,Princy Sathia Kumari M,25,Commerce,Assistant Professor,Self Finance Stream ,Female,SLET,2.42,Yes,Yes,2018-06-11,--,Regular,19020
+310,Marry S,34,Admin,Other,Aided Stream ,Female,Ph.D,0.92,Yes,Yes,2019-06-14,--,Adhoc / Contractual,13000
+311,Sam Golden N,24,BCA,Assistant Professor,Self Finance Stream ,Male,NET,2.08,Yes,Yes,2019-06-26,--,Regular,20800
+312,Stalin S,40,English,Assistant Professor,Aided Stream ,Male,Ph.D,13.5,Yes,Yes,2020-09-24,--,Regular,40967
+313,Muniraja A,31,Languages,Assistant Professor,Aided Stream ,Male,Ph.D,0.5,Yes,Yes,2021-02-09,--,Regular,15000
+314,Deepika S,32,English,Assistant Professor,Aided Stream ,Female,Ph.D,0.5,Yes,Yes,2012-02-10,--,Regular,15000
+315,Joseph Samuel Rajan,41,English,Assistant Professor,Aided Stream ,Male,NET,0.83,Yes,Yes,2020-09-16,--,Regular,14000
+316,Kiran Raghul Raj S,26,English,Assistant Professor,Aided Stream ,Male,NET,0.83,Yes,Yes,2020-09-16,--,Regular,14000
+317,Sheeba Anitha Nesakumari C,43,English,Assistant Professor,Aided Stream ,Female,Ph.D,7.17,Yes,Yes,2020-10-12,--,Regular,29900
+318,Kiruba S,40,English,Assistant Professor,Aided Stream ,Male,Ph.D,5.17,Yes,Yes,2020-10-12,--,Regular,26300
+319,John Jeba Jayasingh,31,MCA,Assistant Professor,Self Finance Stream ,Male,NET,0.83,Yes,Yes,2020-09-17,--,Regular,14000
+320,Indulekha,32,MCA,Assistant Professor,Self Finance Stream ,Female,NET,0.83,Yes,Yes,2020-09-21,--,Adhoc / Contractual,14000
+321,Raghu Raman R,27,MCA,Assistant Professor,Self Finance Stream ,Male,NET,0.92,Yes,Yes,2020-08-24,--,Regular,16100
+322,Joshua W,23,MCA,Assistant Professor,Self Finance Stream ,Male,NET,0.83,Yes,Yes,2020-09-30,--,Regular,16030
+323,Jemima,39,Admin,Other,Aided Stream ,Female,M.Sc.(Physiology),7.58,Yes,Yes,2018-07-07,--,Other,21600
+324,Somu Ebenezer Ross,65,Management,Dean,Self Finance Stream ,Male,M. Phil,36.17,Yes,Yes,2009-09-24,--,Other,73200
+325,John Mathew Prasad,66,Management,Dean,Self Finance Stream ,Male,Ph.D,31.92,Yes,Yes,2014-06-16,--,Other,74000
+326,Samuel,65,Security,Security,Security,Male,HSC,13.58,Yes,Yes,2009-07-29,--,Regular,6900
+327,Joshwin,55,Security,Security,Security,Male,HSC,9.92,Yes,Yes,2016-06-13,--,Regular,6200
+328,Josphine,45,Security,Security,Security,Male,HSC,12.08,Yes,Yes,2015-06-15,--,Regular,7900
+329,Albert,50,Security,Security,Security,Male,SSLC,13.08,Yes,Yes,2009-06-15,--,Regular,8000
+330,Illango,45,Driver,Driver,Driver,Male,SSLC,9999.0,,,,,,999999999
+331,David,50,Driver,Driver,Driver,Male,SSLC,6.0,Yes,Yes,2019-06-17,--,Regular,10100
+332,Daniel,56,Driver,Driver,Driver,Male,SSLC,12.33,Yes,Yes,2019-06-17,--,Regular,13300
+333,Vinoth,65,Driver,Driver,Driver,Male,SSLC,14.0,Yes,Yes,2019-06-17,--,Regular,15040
+334,Christ,60,Driver,Driver,Driver,Male,SSLC,15.42,Yes,Yes,2019-06-17,--,Regular,16400
+335,Joy,55,Driver,Driver,Driver,Male,SSLC,0.67,Yes,Yes,2019-11-18,--,Regular,7000
+336,Andro,49,Driver,Driver,Driver,Male,SSLC,5.75,Yes,Yes,2019-06-17,--,Regular,12800
+337,Anthony,52,Driver,Driver,Driver,Male,SSLC,14.33,Yes,Yes,2019-12-12,--,Regular,16500
+338,Dass,55,Driver,Driver,Driver,Male,SSLC,10.0,Yes,Yes,2019-12-16,--,Regular,14000
+339,Suburaj,40,Driver,Driver,Driver,Male,SSLC,2.5,Yes,Yes,2019-12-12,--,Regular,10030
+340,Subramnai,44,Driver,Driver,Driver,Male,SSLC,1.42,Yes,Yes,2020-09-21,--,Regular,9500
+341,Senthil Kumar R,54,Driver,Driver,Driver,Male,SSLC,3.33,Yes,Yes,2019-12-12,--,Regular,11100
+342,Vivek R,34,Driver,Driver,Driver,Male,SSLC,1.0,Yes,Yes,2020-02-11,--,Regular,9000
+343,Palani K,56,Driver,Driver,Driver,Male,SSLC,5.33,Yes,Yes,2016-06-13,--,Regular,13620
+344,Anand,43,Driver,Driver,Driver,Male,SSLC,19.5,Yes,Yes,2016-06-13,--,Regular,19700
+345,Sundar,39,Driver,Driver,Driver,Male,SSLC,10.17,Yes,Yes,2010-06-16,--,Regular,16900
+346,Kalai,43,Driver,Driver,Driver,Male,SSLC,6.0,Yes,Yes,2016-08-23,--,Regular,14200
+347,Raghu,45,Driver,Driver,Driver,Male,SSLC,17.67,Yes,Yes,2002-10-01,--,Regular,18200
+348,Rahul,51,Driver,Driver,Driver,Male,SSLC,12.0,Yes,Yes,2008-12-01,--,Regular,16030
+349,Sitharaman,43,Driver,Driver,Driver,Male,SSLC,19.08,Yes,Yes,2001-06-20,--,Regular,18900
+350,Sidha,59,Driver,Driver,Driver,Male,SSLC,13.08,Yes,Yes,2012-06-18,--,Regular,17000
+351,Ramu,48,Driver,Driver,Driver,Male,SSLC,15.67,Yes,Yes,2007-08-13,--,Regular,18300
+352,Parvathi,56,House Keeping,House Keeping,House Keeping,Female,SSLC,7.08,No,Yes,2018-06-11,--,Regular,6300
+353,Marry,59,House Keeping,House Keeping,House Keeping,Female,SSLC,5.0,Yes,Yes,2015-07-01,--,Regular,6080
+354,Elisa,49,House Keeping,House Keeping,House Keeping,Female,SSLC,2.08,No,Yes,2018-06-11,--,Regular,5000
+355,Princy,48,House Keeping,House Keeping,House Keeping,Female,SSLC,13.83,Yes,Yes,2018-06-11,--,Regular,7750
+356,Lawra,49,House Keeping,House Keeping,House Keeping,Female,SSLC,14.67,Yes,Yes,2018-06-10,--,Regular,7900
+357,Fernadas,55,House Keeping,House Keeping,House Keeping,Female,SSLC,18.92,Yes,Yes,2018-06-11,--,Regular,8050
+358,Emima,59,House Keeping,House Keeping,House Keeping,Male,SSLC,3.0,Yes,No,2018-06-18,2017-01-20 00:00:00,Regular,31644
+359,Johnsy,60,House Keeping,House Keeping,House Keeping,Male,SSLC,16.83,Yes,Yes,2005-06-13,--,Regular,7000
+360,Rajeshwar,58,Management,Dean,Self Finance Stream ,Male,D.Sc,31.67,Yes,Yes,2017-09-01,,Regular,80021
+361,Maple,58,English,Associate Professor,Aided Stream ,Male,M. Phil,25.08,Yes,Yes,2017-10-01,,Regular,81021
+362,Srivatsav,58,BCA,Associate Professor,Self Finance Stream ,Male,Ph.D,28.75,Yes,Yes,2017-11-01,,Regular,75420
+363,Srinavasa,59,Physics,Associate Professor,Self Finance Stream ,Male,Ph.D,26.0,Yes,In pipeline,2018-02-01,,Regular,999999999
+364,Ragveen,58,PET,Associate Professor,Self Finance Stream ,Male,Ph.D,25.92,Yes,In pipeline,,,Regular,999999999
+365,Sharma Mab,33,Zoology,Assistant Professor,Aided Stream ,Female,NET,6.25,Yes,Yes,2017-10-10,,Regular,25321
+366,Sribalaba,26,History,Assistant Professor,Aided Stream ,Male,NET,2.92,Yes,Yes,2017-09-01,,Regular,30678
+367,Velman,31,Mathematics,Assistant Professor,Aided Stream ,Male,Ph.D,2.67,Yes,Yes,2017-11-10,,Regular,32500
+368,Rekha Dr,34,Philosophy,Assistant Professor,Self Finance Stream ,Female,Ph.D,4.58,Yes,Yes,2017-09-01,,Regular,34500
+369,Raju Veeru,39,PET,Assistant Professor,Self Finance Stream ,Female,Ph.D,4.67,Yes,In pipeline,2018-01-10,,Regular,999999999
+370,Manoj R,30,Chemistry,Assistant Professor,Aided Stream ,Female,M. Phil,1.92,Yes,In pipeline,,,Regular,999999999
+371,Manjulan,29,Chemistry,Assistant Professor,Aided Stream ,Male,SLET,4.33,No,Yes,2017-10-10,,Regular,31450
+372,Sri Ram,29,Microbiology,Assistant Professor,Self Finance Stream ,Female,M. Phil,5.92,Yes,Yes,2017-08-11,,Regular,45000
+373,Vedant,24,Botany,Assistant Professor,Self Finance Stream ,Female,SLET,1.92,Yes,Yes,2017-10-20,,Regular,31000
+374,Girish,25,Commerce,Assistant Professor,Self Finance Stream ,Male,M. Phil,2.75,Yes,In pipeline,2018-02-10,,Regular,999999999
+375,Vidyut D,30,Commerce,Assistant Professor,Self Finance Stream ,Male,Ph.D,1.42,Yes,Yes,2017-11-01,,Regular,23000
+376,Himansu,38,Social Work,Assistant Professor,Self Finance Stream ,Male,Ph.D,7.33,Yes,Yes,2017-09-15,,Regular,46700
+377,Priyanka,25,Physics,Assistant Professor,Self Finance Stream ,Female,NET,3.5,Yes,Yes,2017-01-01,,Regular,21300

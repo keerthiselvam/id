@@ -1,0 +1,1194 @@
+Year,Department,Nationality,Stream Type,Caste,Graduation Type,Applied Students,Enrolled Students,Selected Students
+2017-01-01,Botany,Indian,Aided,BC,PG,84,42,14
+2017-01-01,Botany,Indian,Aided,MBC,PG,12,6,2
+2017-01-01,Botany,Indian,Aided,OBC,PG,30,15,5
+2017-01-01,Botany,Indian,Aided,Others,PG,6,3,1
+2017-01-01,Botany,Indian,Aided,SC,PG,18,9,3
+2017-01-01,Botany,Indian,Aided,ST,PG,12,6,2
+2017-01-01,Botany,Indian,SFS,BC,PG,60,30,10
+2017-01-01,Botany,Indian,SFS,MBC,PG,36,18,6
+2017-01-01,Botany,Indian,SFS,OBC,PG,48,24,8
+2017-01-01,Botany,Indian,SFS,Others,PG,6,3,1
+2017-01-01,Botany,Indian,SFS,SC,PG,24,12,4
+2017-01-01,Botany,Indian,SFS,ST,PG,12,6,2
+2017-01-01,Chemistry,Indian,Aided,BC,PG,60,30,10
+2017-01-01,Chemistry,Indian,Aided,MBC,PG,6,3,1
+2017-01-01,Chemistry,Indian,Aided,OBC,PG,42,21,7
+2017-01-01,Chemistry,Indian,Aided,Others,PG,12,6,2
+2017-01-01,Chemistry,Indian,Aided,SC,PG,18,9,3
+2017-01-01,Chemistry,Indian,Aided,ST,PG,18,9,3
+2017-01-01,Chemistry,Indian,SFS,BC,PG,108,54,18
+2017-01-01,Chemistry,Indian,SFS,MBC,PG,12,6,2
+2017-01-01,Chemistry,Indian,SFS,OBC,PG,30,15,5
+2017-01-01,Chemistry,Indian,SFS,Others,PG,6,3,1
+2017-01-01,Chemistry,Indian,SFS,SC,PG,12,6,2
+2017-01-01,Chemistry,Indian,SFS,ST,PG,24,12,4
+2017-01-01,Commerce,Indian,Aided,BC,PG,72,36,12
+2017-01-01,Commerce,Indian,Aided,MBC,PG,12,6,2
+2017-01-01,Commerce,Indian,Aided,OBC,PG,72,36,12
+2017-01-01,Commerce,Indian,Aided,Others,PG,12,6,2
+2017-01-01,Commerce,Indian,Aided,SC,PG,30,15,5
+2017-01-01,Commerce,Indian,Aided,ST,PG,24,12,4
+2017-01-01,Commerce,Indian,SFS,BC,PG,186,93,31
+2017-01-01,Commerce,Indian,SFS,MBC,PG,24,12,4
+2017-01-01,Commerce,Indian,SFS,OBC,PG,54,27,9
+2017-01-01,Commerce,Indian,SFS,Others,PG,18,9,3
+2017-01-01,Commerce,Indian,SFS,SC,PG,30,15,5
+2017-01-01,Commerce,Indian,SFS,ST,PG,30,15,5
+2017-01-01,Commerce,Others,Aided,Others,PG,6,3,1
+2017-01-01,Commerce,Others,SFS,BC,PG,30,15,5
+2017-01-01,Commerce,Others,SFS,OBC,PG,6,3,1
+2017-01-01,Commerce,Others,SFS,SC,PG,6,3,1
+2017-01-01,Commerce,Others,SFS,ST,PG,6,3,1
+2017-01-01,Economics,Indian,Aided,BC,PG,108,54,18
+2017-01-01,Economics,Indian,Aided,MBC,PG,18,9,3
+2017-01-01,Economics,Indian,Aided,OBC,PG,48,24,8
+2017-01-01,Economics,Indian,Aided,Others,PG,18,9,3
+2017-01-01,Economics,Indian,Aided,SC,PG,18,9,3
+2017-01-01,Economics,Indian,Aided,ST,PG,24,12,4
+2017-01-01,Economics,Indian,SFS,BC,PG,156,78,26
+2017-01-01,Economics,Indian,SFS,MBC,PG,12,6,2
+2017-01-01,Economics,Indian,SFS,OBC,PG,24,12,4
+2017-01-01,Economics,Indian,SFS,Others,PG,18,9,3
+2017-01-01,Economics,Indian,SFS,SC,PG,18,9,3
+2017-01-01,Economics,Indian,SFS,ST,PG,6,3,1
+2017-01-01,English,Indian,Aided,BC,PG,66,33,11
+2017-01-01,English,Indian,Aided,MBC,PG,30,15,5
+2017-01-01,English,Indian,Aided,OBC,PG,42,21,7
+2017-01-01,English,Indian,Aided,Others,PG,18,9,3
+2017-01-01,English,Indian,Aided,SC,PG,24,12,4
+2017-01-01,English,Indian,Aided,ST,PG,6,3,1
+2017-01-01,English,Indian,SFS,BC,PG,132,66,22
+2017-01-01,English,Indian,SFS,MBC,PG,18,9,3
+2017-01-01,English,Indian,SFS,OBC,PG,24,12,4
+2017-01-01,English,Indian,SFS,Others,PG,6,3,1
+2017-01-01,English,Indian,SFS,SC,PG,12,6,2
+2017-01-01,English,Indian,SFS,ST,PG,12,6,2
+2017-01-01,English,Others,Aided,Others,PG,24,12,4
+2017-01-01,English,Others,SFS,BC,PG,18,9,3
+2017-01-01,English,Others,SFS,MBC,PG,6,3,1
+2017-01-01,English,Others,SFS,OBC,PG,24,12,4
+2017-01-01,English,Others,SFS,SC,PG,6,3,1
+2017-01-01,History,Indian,Aided,BC,PG,72,36,12
+2017-01-01,History,Indian,Aided,MBC,PG,12,6,2
+2017-01-01,History,Indian,Aided,OBC,PG,30,15,5
+2017-01-01,History,Indian,Aided,Others,PG,6,3,1
+2017-01-01,History,Indian,Aided,SC,PG,6,3,1
+2017-01-01,History,Indian,Aided,ST,PG,18,9,3
+2017-01-01,History,Indian,SFS,BC,PG,42,21,7
+2017-01-01,History,Indian,SFS,OBC,PG,66,33,11
+2017-01-01,History,Indian,SFS,Others,PG,6,3,1
+2017-01-01,History,Indian,SFS,SC,PG,18,9,3
+2017-01-01,History,Indian,SFS,ST,PG,12,6,2
+2017-01-01,History,Others,Aided,Others,PG,6,3,1
+2017-01-01,History,Others,SFS,BC,PG,12,6,2
+2017-01-01,Maths,Indian,Aided,BC,PG,42,21,7
+2017-01-01,Maths,Indian,Aided,MBC,PG,12,6,2
+2017-01-01,Maths,Indian,Aided,OBC,PG,66,33,11
+2017-01-01,Maths,Indian,Aided,Others,PG,6,3,1
+2017-01-01,Maths,Indian,Aided,SC,PG,12,6,2
+2017-01-01,Maths,Indian,SFS,BC,PG,66,33,11
+2017-01-01,Maths,Indian,SFS,MBC,PG,18,9,3
+2017-01-01,Maths,Indian,SFS,OBC,PG,24,12,4
+2017-01-01,Maths,Indian,SFS,Others,PG,18,9,3
+2017-01-01,Maths,Indian,SFS,SC,PG,6,3,1
+2017-01-01,Maths,Indian,SFS,ST,PG,6,3,1
+2017-01-01,MCA,Indian,SFS,BC,PG,342,171,57
+2017-01-01,MCA,Indian,SFS,MBC,PG,42,21,7
+2017-01-01,MCA,Indian,SFS,OBC,PG,126,63,21
+2017-01-01,MCA,Indian,SFS,Others,PG,42,21,7
+2017-01-01,MCA,Indian,SFS,SC,PG,60,30,10
+2017-01-01,MCA,Indian,SFS,ST,PG,54,27,9
+2017-01-01,MCA,Others,SFS,BC,PG,24,12,4
+2017-01-01,MCA,Others,SFS,MBC,PG,6,3,1
+2017-01-01,MCA,Others,SFS,OBC,PG,54,27,9
+2017-01-01,MCA,Others,SFS,Others,PG,6,3,1
+2017-01-01,Microbiology,Indian,SFS,BC,PG,168,84,28
+2017-01-01,Microbiology,Indian,SFS,MBC,PG,12,6,2
+2017-01-01,Microbiology,Indian,SFS,OBC,PG,30,15,5
+2017-01-01,Microbiology,Indian,SFS,SC,PG,30,15,5
+2017-01-01,Microbiology,Indian,SFS,ST,PG,6,3,1
+2017-01-01,Philosophy,Indian,Aided,BC,PG,60,30,10
+2017-01-01,Philosophy,Indian,Aided,OBC,PG,24,12,4
+2017-01-01,Philosophy,Indian,Aided,Others,PG,12,6,2
+2017-01-01,Philosophy,Indian,Aided,SC,PG,6,3,1
+2017-01-01,Philosophy,Indian,SFS,BC,PG,54,27,9
+2017-01-01,Philosophy,Indian,SFS,MBC,PG,6,3,1
+2017-01-01,Philosophy,Indian,SFS,OBC,PG,48,24,8
+2017-01-01,Philosophy,Indian,SFS,Others,PG,6,3,1
+2017-01-01,Philosophy,Indian,SFS,SC,PG,6,3,1
+2017-01-01,Philosophy,Indian,SFS,ST,PG,12,6,2
+2017-01-01,Philosophy,Others,SFS,BC,PG,18,9,3
+2017-01-01,Philosophy,Others,SFS,OBC,PG,6,3,1
+2017-01-01,Philosophy,Others,SFS,Others,PG,6,3,1
+2017-01-01,Philosophy,Others,SFS,SC,PG,6,3,1
+2017-01-01,Philosophy,Others,SFS,ST,PG,6,3,1
+2017-01-01,Physics,Indian,Aided,BC,PG,78,39,13
+2017-01-01,Physics,Indian,Aided,MBC,PG,12,6,2
+2017-01-01,Physics,Indian,Aided,OBC,PG,18,9,3
+2017-01-01,Physics,Indian,Aided,Others,PG,12,6,2
+2017-01-01,Physics,Indian,Aided,SC,PG,18,9,3
+2017-01-01,Physics,Indian,SFS,BC,PG,54,27,9
+2017-01-01,Physics,Indian,SFS,MBC,PG,18,9,3
+2017-01-01,Physics,Indian,SFS,OBC,PG,78,39,13
+2017-01-01,Physics,Indian,SFS,Others,PG,12,6,2
+2017-01-01,Physics,Indian,SFS,SC,PG,6,3,1
+2017-01-01,Physics,Indian,SFS,ST,PG,30,15,5
+2017-01-01,Political Science,Indian,Aided,BC,PG,102,51,17
+2017-01-01,Political Science,Indian,Aided,MBC,PG,30,15,5
+2017-01-01,Political Science,Indian,Aided,OBC,PG,48,24,8
+2017-01-01,Political Science,Indian,Aided,SC,PG,18,9,3
+2017-01-01,Political Science,Indian,Aided,ST,PG,24,12,4
+2017-01-01,Political Science,Indian,SFS,BC,PG,114,57,19
+2017-01-01,Political Science,Indian,SFS,MBC,PG,18,9,3
+2017-01-01,Political Science,Indian,SFS,OBC,PG,54,27,9
+2017-01-01,Political Science,Indian,SFS,Others,PG,12,6,2
+2017-01-01,Political Science,Indian,SFS,SC,PG,30,15,5
+2017-01-01,Political Science,Indian,SFS,ST,PG,24,12,4
+2017-01-01,Social Work,Indian,Aided,BC,PG,90,45,15
+2017-01-01,Social Work,Indian,Aided,MBC,PG,12,6,2
+2017-01-01,Social Work,Indian,Aided,OBC,PG,42,21,7
+2017-01-01,Social Work,Indian,Aided,SC,PG,6,3,1
+2017-01-01,Social Work,Indian,Aided,ST,PG,24,12,4
+2017-01-01,Social Work,Indian,SFS,BC,PG,210,105,35
+2017-01-01,Social Work,Indian,SFS,MBC,PG,30,15,5
+2017-01-01,Social Work,Indian,SFS,OBC,PG,114,57,19
+2017-01-01,Social Work,Indian,SFS,Others,PG,18,9,3
+2017-01-01,Social Work,Indian,SFS,SC,PG,48,24,8
+2017-01-01,Social Work,Indian,SFS,ST,PG,48,24,8
+2017-01-01,Statistics,Indian,Aided,BC,PG,108,54,18
+2017-01-01,Statistics,Indian,Aided,MBC,PG,18,9,3
+2017-01-01,Statistics,Indian,Aided,OBC,PG,36,18,6
+2017-01-01,Statistics,Indian,Aided,Others,PG,12,6,2
+2017-01-01,Statistics,Indian,Aided,SC,PG,12,6,2
+2017-01-01,Statistics,Indian,Aided,ST,PG,12,6,2
+2017-01-01,Statistics,Indian,SFS,BC,PG,84,42,14
+2017-01-01,Statistics,Indian,SFS,MBC,PG,18,9,3
+2017-01-01,Statistics,Indian,SFS,OBC,PG,18,9,3
+2017-01-01,Statistics,Indian,SFS,Others,PG,6,3,1
+2017-01-01,Statistics,Indian,SFS,SC,PG,18,9,3
+2017-01-01,Statistics,Indian,SFS,ST,PG,18,9,3
+2017-01-01,Tamil,Indian,Aided,BC,PG,90,45,15
+2017-01-01,Tamil,Indian,Aided,MBC,PG,30,15,5
+2017-01-01,Tamil,Indian,Aided,OBC,PG,36,18,6
+2017-01-01,Tamil,Indian,Aided,Others,PG,6,3,1
+2017-01-01,Tamil,Indian,Aided,SC,PG,12,6,2
+2017-01-01,Tamil,Indian,Aided,ST,PG,24,12,4
+2017-01-01,Tamil,Indian,SFS,BC,PG,84,42,14
+2017-01-01,Tamil,Indian,SFS,MBC,PG,12,6,2
+2017-01-01,Tamil,Indian,SFS,OBC,PG,24,12,4
+2017-01-01,Tamil,Indian,SFS,Others,PG,6,3,1
+2017-01-01,Tamil,Indian,SFS,SC,PG,6,3,1
+2017-01-01,Tamil,Indian,SFS,ST,PG,12,6,2
+2017-01-01,Zoology,Indian,Aided,BC,PG,78,39,13
+2017-01-01,Zoology,Indian,Aided,MBC,PG,12,6,2
+2017-01-01,Zoology,Indian,Aided,OBC,PG,78,39,13
+2017-01-01,Zoology,Indian,Aided,Others,PG,12,6,2
+2017-01-01,Zoology,Indian,Aided,SC,PG,24,12,4
+2017-01-01,Zoology,Indian,Aided,ST,PG,24,12,4
+2017-01-01,Zoology,Indian,SFS,BC,PG,114,57,19
+2017-01-01,Zoology,Indian,SFS,MBC,PG,24,12,4
+2017-01-01,Zoology,Indian,SFS,OBC,PG,18,9,3
+2017-01-01,Zoology,Indian,SFS,Others,PG,6,3,1
+2017-01-01,Zoology,Indian,SFS,SC,PG,12,6,2
+2017-01-01,Zoology,Indian,SFS,ST,PG,24,12,4
+2018-01-01,Botany,Indian,Aided,BC,PG,96,48,16
+2018-01-01,Botany,Indian,Aided,MBC,PG,6,3,1
+2018-01-01,Botany,Indian,Aided,OBC,PG,54,27,9
+2018-01-01,Botany,Indian,Aided,Others,PG,24,12,4
+2018-01-01,Botany,Indian,Aided,SC,PG,12,6,2
+2018-01-01,Botany,Indian,Aided,ST,PG,18,9,3
+2018-01-01,Botany,Indian,SFS,BC,PG,120,60,20
+2018-01-01,Botany,Indian,SFS,MBC,PG,6,3,1
+2018-01-01,Botany,Indian,SFS,OBC,PG,60,30,10
+2018-01-01,Botany,Indian,SFS,SC,PG,12,6,2
+2018-01-01,Botany,Indian,SFS,ST,PG,42,21,7
+2018-01-01,Chemistry,Indian,Aided,BC,PG,78,39,13
+2018-01-01,Chemistry,Indian,Aided,MBC,PG,30,15,5
+2018-01-01,Chemistry,Indian,Aided,OBC,PG,30,15,5
+2018-01-01,Chemistry,Indian,Aided,Others,PG,12,6,2
+2018-01-01,Chemistry,Indian,Aided,SC,PG,18,9,3
+2018-01-01,Chemistry,Indian,Aided,ST,PG,6,3,1
+2018-01-01,Chemistry,Indian,SFS,BC,PG,96,48,16
+2018-01-01,Chemistry,Indian,SFS,MBC,PG,12,6,2
+2018-01-01,Chemistry,Indian,SFS,OBC,PG,66,33,11
+2018-01-01,Chemistry,Indian,SFS,Others,PG,6,3,1
+2018-01-01,Chemistry,Indian,SFS,SC,PG,18,9,3
+2018-01-01,Chemistry,Indian,SFS,ST,PG,18,9,3
+2018-01-01,Commerce,Indian,Aided,BC,PG,90,45,15
+2018-01-01,Commerce,Indian,Aided,MBC,PG,24,12,4
+2018-01-01,Commerce,Indian,Aided,OBC,PG,60,30,10
+2018-01-01,Commerce,Indian,Aided,Others,PG,6,3,1
+2018-01-01,Commerce,Indian,Aided,SC,PG,30,15,5
+2018-01-01,Commerce,Indian,Aided,ST,PG,12,6,2
+2018-01-01,Commerce,Indian,SFS,BC,PG,162,81,27
+2018-01-01,Commerce,Indian,SFS,MBC,PG,54,27,9
+2018-01-01,Commerce,Indian,SFS,OBC,PG,90,45,15
+2018-01-01,Commerce,Indian,SFS,Others,PG,18,9,3
+2018-01-01,Commerce,Indian,SFS,SC,PG,48,24,8
+2018-01-01,Commerce,Indian,SFS,ST,PG,54,27,9
+2018-01-01,Commerce,Others,Aided,Others,PG,6,3,1
+2018-01-01,Commerce,Others,SFS,BC,PG,30,15,5
+2018-01-01,Commerce,Others,SFS,OBC,PG,24,12,4
+2018-01-01,Commerce,Others,SFS,SC,PG,6,3,1
+2018-01-01,Economics,Indian,Aided,BC,PG,144,72,24
+2018-01-01,Economics,Indian,Aided,MBC,PG,12,6,2
+2018-01-01,Economics,Indian,Aided,OBC,PG,42,21,7
+2018-01-01,Economics,Indian,Aided,Others,PG,24,12,4
+2018-01-01,Economics,Indian,Aided,SC,PG,24,12,4
+2018-01-01,Economics,Indian,Aided,ST,PG,6,3,1
+2018-01-01,Economics,Indian,SFS,BC,PG,144,72,24
+2018-01-01,Economics,Indian,SFS,MBC,PG,42,21,7
+2018-01-01,Economics,Indian,SFS,OBC,PG,60,30,10
+2018-01-01,Economics,Indian,SFS,Others,PG,6,3,1
+2018-01-01,Economics,Indian,SFS,SC,PG,18,9,3
+2018-01-01,Economics,Indian,SFS,ST,PG,30,15,5
+2018-01-01,English,Indian,Aided,BC,PG,72,36,12
+2018-01-01,English,Indian,Aided,MBC,PG,18,9,3
+2018-01-01,English,Indian,Aided,OBC,PG,54,27,9
+2018-01-01,English,Indian,Aided,Others,PG,6,3,1
+2018-01-01,English,Indian,Aided,SC,PG,24,12,4
+2018-01-01,English,Indian,Aided,ST,PG,30,15,5
+2018-01-01,English,Indian,SFS,BC,PG,108,54,18
+2018-01-01,English,Indian,SFS,MBC,PG,30,15,5
+2018-01-01,English,Indian,SFS,OBC,PG,60,30,10
+2018-01-01,English,Indian,SFS,Others,PG,18,9,3
+2018-01-01,English,Indian,SFS,SC,PG,18,9,3
+2018-01-01,English,Indian,SFS,ST,PG,30,15,5
+2018-01-01,English,Others,Aided,Others,PG,24,12,4
+2018-01-01,English,Others,SFS,BC,PG,6,3,1
+2018-01-01,English,Others,SFS,OBC,PG,24,12,4
+2018-01-01,English,Others,SFS,Others,PG,12,6,2
+2018-01-01,English,Others,SFS,SC,PG,6,3,1
+2018-01-01,English,Others,SFS,ST,PG,6,3,1
+2018-01-01,History,Indian,Aided,BC,PG,60,30,10
+2018-01-01,History,Indian,Aided,MBC,PG,6,3,1
+2018-01-01,History,Indian,Aided,OBC,PG,72,36,12
+2018-01-01,History,Indian,Aided,Others,PG,18,9,3
+2018-01-01,History,Indian,Aided,SC,PG,12,6,2
+2018-01-01,History,Indian,Aided,ST,PG,6,3,1
+2018-01-01,History,Indian,SFS,BC,PG,84,42,14
+2018-01-01,History,Indian,SFS,MBC,PG,12,6,2
+2018-01-01,History,Indian,SFS,OBC,PG,54,27,9
+2018-01-01,History,Indian,SFS,Others,PG,12,6,2
+2018-01-01,History,Indian,SFS,SC,PG,18,9,3
+2018-01-01,History,Indian,SFS,ST,PG,24,12,4
+2018-01-01,History,Others,Aided,Others,PG,6,3,1
+2018-01-01,History,Others,SFS,BC,PG,30,15,5
+2018-01-01,Maths,Indian,Aided,BC,PG,84,42,14
+2018-01-01,Maths,Indian,Aided,MBC,PG,24,12,4
+2018-01-01,Maths,Indian,Aided,OBC,PG,12,6,2
+2018-01-01,Maths,Indian,Aided,SC,PG,24,12,4
+2018-01-01,Maths,Indian,Aided,ST,PG,18,9,3
+2018-01-01,Maths,Indian,SFS,BC,PG,90,45,15
+2018-01-01,Maths,Indian,SFS,MBC,PG,30,15,5
+2018-01-01,Maths,Indian,SFS,OBC,PG,42,21,7
+2018-01-01,Maths,Indian,SFS,Others,PG,6,3,1
+2018-01-01,Maths,Indian,SFS,ST,PG,18,9,3
+2018-01-01,MCA,Indian,SFS,BC,PG,288,144,48
+2018-01-01,MCA,Indian,SFS,MBC,PG,90,45,15
+2018-01-01,MCA,Indian,SFS,OBC,PG,156,78,26
+2018-01-01,MCA,Indian,SFS,Others,PG,36,18,6
+2018-01-01,MCA,Indian,SFS,SC,PG,72,36,12
+2018-01-01,MCA,Indian,SFS,ST,PG,72,36,12
+2018-01-01,MCA,Others,SFS,BC,PG,24,12,4
+2018-01-01,MCA,Others,SFS,OBC,PG,12,6,2
+2018-01-01,MCA,Others,SFS,SC,PG,18,9,3
+2018-01-01,MCA,Others,SFS,ST,PG,18,9,3
+2018-01-01,Microbiology,Indian,SFS,BC,PG,126,63,21
+2018-01-01,Microbiology,Indian,SFS,MBC,PG,12,6,2
+2018-01-01,Microbiology,Indian,SFS,OBC,PG,102,51,17
+2018-01-01,Microbiology,Indian,SFS,Others,PG,12,6,2
+2018-01-01,Microbiology,Indian,SFS,SC,PG,24,12,4
+2018-01-01,Microbiology,Indian,SFS,ST,PG,48,24,8
+2018-01-01,Philosophy,Indian,Aided,BC,PG,54,27,9
+2018-01-01,Philosophy,Indian,Aided,MBC,PG,6,3,1
+2018-01-01,Philosophy,Indian,Aided,OBC,PG,36,18,6
+2018-01-01,Philosophy,Indian,Aided,Others,PG,12,6,2
+2018-01-01,Philosophy,Indian,Aided,ST,PG,6,3,1
+2018-01-01,Philosophy,Indian,SFS,BC,PG,60,30,10
+2018-01-01,Philosophy,Indian,SFS,MBC,PG,42,21,7
+2018-01-01,Philosophy,Indian,SFS,OBC,PG,66,33,11
+2018-01-01,Philosophy,Indian,SFS,SC,PG,24,12,4
+2018-01-01,Philosophy,Indian,SFS,ST,PG,30,15,5
+2018-01-01,Philosophy,Others,Aided,Others,PG,12,6,2
+2018-01-01,Philosophy,Others,SFS,BC,PG,6,3,1
+2018-01-01,Philosophy,Others,SFS,OBC,PG,6,3,1
+2018-01-01,Physics,Indian,Aided,BC,PG,84,42,14
+2018-01-01,Physics,Indian,Aided,MBC,PG,12,6,2
+2018-01-01,Physics,Indian,Aided,OBC,PG,30,15,5
+2018-01-01,Physics,Indian,Aided,Others,PG,6,3,1
+2018-01-01,Physics,Indian,Aided,SC,PG,6,3,1
+2018-01-01,Physics,Indian,Aided,ST,PG,24,12,4
+2018-01-01,Physics,Indian,SFS,BC,PG,138,69,23
+2018-01-01,Physics,Indian,SFS,MBC,PG,36,18,6
+2018-01-01,Physics,Indian,SFS,OBC,PG,42,21,7
+2018-01-01,Physics,Indian,SFS,Others,PG,12,6,2
+2018-01-01,Physics,Indian,SFS,SC,PG,24,12,4
+2018-01-01,Physics,Indian,SFS,ST,PG,18,9,3
+2018-01-01,Political Science,Indian,Aided,BC,PG,96,48,16
+2018-01-01,Political Science,Indian,Aided,MBC,PG,24,12,4
+2018-01-01,Political Science,Indian,Aided,OBC,PG,60,30,10
+2018-01-01,Political Science,Indian,Aided,Others,PG,6,3,1
+2018-01-01,Political Science,Indian,Aided,SC,PG,30,15,5
+2018-01-01,Political Science,Indian,Aided,ST,PG,12,6,2
+2018-01-01,Political Science,Indian,SFS,BC,PG,144,72,24
+2018-01-01,Political Science,Indian,SFS,MBC,PG,30,15,5
+2018-01-01,Political Science,Indian,SFS,OBC,PG,60,30,10
+2018-01-01,Political Science,Indian,SFS,Others,PG,12,6,2
+2018-01-01,Political Science,Indian,SFS,SC,PG,30,15,5
+2018-01-01,Political Science,Indian,SFS,ST,PG,24,12,4
+2018-01-01,Social Work,Indian,Aided,BC,PG,54,27,9
+2018-01-01,Social Work,Indian,Aided,MBC,PG,18,9,3
+2018-01-01,Social Work,Indian,Aided,OBC,PG,54,27,9
+2018-01-01,Social Work,Indian,Aided,Others,PG,12,6,2
+2018-01-01,Social Work,Indian,Aided,SC,PG,18,9,3
+2018-01-01,Social Work,Indian,Aided,ST,PG,18,9,3
+2018-01-01,Social Work,Indian,SFS,BC,PG,228,114,38
+2018-01-01,Social Work,Indian,SFS,MBC,PG,60,30,10
+2018-01-01,Social Work,Indian,SFS,OBC,PG,120,60,20
+2018-01-01,Social Work,Indian,SFS,Others,PG,24,12,4
+2018-01-01,Social Work,Indian,SFS,SC,PG,60,30,10
+2018-01-01,Social Work,Indian,SFS,ST,PG,66,33,11
+2018-01-01,Statistics,Indian,Aided,BC,PG,90,45,15
+2018-01-01,Statistics,Indian,Aided,MBC,PG,30,15,5
+2018-01-01,Statistics,Indian,Aided,OBC,PG,12,6,2
+2018-01-01,Statistics,Indian,Aided,Others,PG,6,3,1
+2018-01-01,Statistics,Indian,Aided,SC,PG,24,12,4
+2018-01-01,Statistics,Indian,Aided,ST,PG,30,15,5
+2018-01-01,Statistics,Indian,SFS,BC,PG,78,39,13
+2018-01-01,Statistics,Indian,SFS,MBC,PG,12,6,2
+2018-01-01,Statistics,Indian,SFS,OBC,PG,48,24,8
+2018-01-01,Statistics,Indian,SFS,Others,PG,6,3,1
+2018-01-01,Statistics,Indian,SFS,SC,PG,18,9,3
+2018-01-01,Statistics,Indian,SFS,ST,PG,18,9,3
+2018-01-01,Tamil,Indian,Aided,BC,PG,108,54,18
+2018-01-01,Tamil,Indian,Aided,MBC,PG,60,30,10
+2018-01-01,Tamil,Indian,Aided,OBC,PG,24,12,4
+2018-01-01,Tamil,Indian,Aided,SC,PG,24,12,4
+2018-01-01,Tamil,Indian,Aided,ST,PG,36,18,6
+2018-01-01,Tamil,Indian,SFS,BC,PG,108,54,18
+2018-01-01,Tamil,Indian,SFS,MBC,PG,18,9,3
+2018-01-01,Tamil,Indian,SFS,OBC,PG,96,48,16
+2018-01-01,Tamil,Indian,SFS,Others,PG,12,6,2
+2018-01-01,Tamil,Indian,SFS,SC,PG,12,6,2
+2018-01-01,Tamil,Indian,SFS,ST,PG,24,12,4
+2018-01-01,Zoology,Indian,Aided,BC,PG,114,57,19
+2018-01-01,Zoology,Indian,Aided,MBC,PG,6,3,1
+2018-01-01,Zoology,Indian,Aided,OBC,PG,36,18,6
+2018-01-01,Zoology,Indian,Aided,Others,PG,24,12,4
+2018-01-01,Zoology,Indian,Aided,SC,PG,6,3,1
+2018-01-01,Zoology,Indian,Aided,ST,PG,6,3,1
+2018-01-01,Zoology,Indian,SFS,BC,PG,84,42,14
+2018-01-01,Zoology,Indian,SFS,MBC,PG,18,9,3
+2018-01-01,Zoology,Indian,SFS,OBC,PG,42,21,7
+2018-01-01,Zoology,Indian,SFS,Others,PG,6,3,1
+2018-01-01,Zoology,Indian,SFS,SC,PG,18,9,3
+2018-01-01,Zoology,Indian,SFS,ST,PG,6,3,1
+2019-01-01,Botany,Indian,Aided,BC,PG,90,45,15
+2019-01-01,Botany,Indian,Aided,MBC,PG,24,12,4
+2019-01-01,Botany,Indian,Aided,OBC,PG,30,15,5
+2019-01-01,Botany,Indian,Aided,Others,PG,6,3,1
+2019-01-01,Botany,Indian,Aided,SC,PG,18,9,3
+2019-01-01,Botany,Indian,Aided,ST,PG,12,6,2
+2019-01-01,Botany,Indian,SFS,BC,PG,66,33,11
+2019-01-01,Botany,Indian,SFS,MBC,PG,60,30,10
+2019-01-01,Botany,Indian,SFS,OBC,PG,66,33,11
+2019-01-01,Botany,Indian,SFS,Others,PG,12,6,2
+2019-01-01,Botany,Indian,SFS,SC,PG,36,18,6
+2019-01-01,Botany,Indian,SFS,ST,PG,12,6,2
+2019-01-01,Chemistry,Indian,Aided,BC,PG,78,39,13
+2019-01-01,Chemistry,Indian,Aided,MBC,PG,6,3,1
+2019-01-01,Chemistry,Indian,Aided,OBC,PG,48,24,8
+2019-01-01,Chemistry,Indian,Aided,Others,PG,18,9,3
+2019-01-01,Chemistry,Indian,Aided,SC,PG,24,12,4
+2019-01-01,Chemistry,Indian,Aided,ST,PG,24,12,4
+2019-01-01,Chemistry,Indian,SFS,BC,PG,132,66,22
+2019-01-01,Chemistry,Indian,SFS,MBC,PG,12,6,2
+2019-01-01,Chemistry,Indian,SFS,OBC,PG,36,18,6
+2019-01-01,Chemistry,Indian,SFS,Others,PG,6,3,1
+2019-01-01,Chemistry,Indian,SFS,SC,PG,12,6,2
+2019-01-01,Chemistry,Indian,SFS,ST,PG,30,15,5
+2019-01-01,Commerce,Indian,Aided,BC,PG,72,36,12
+2019-01-01,Commerce,Indian,Aided,MBC,PG,12,6,2
+2019-01-01,Commerce,Indian,Aided,OBC,PG,78,39,13
+2019-01-01,Commerce,Indian,Aided,Others,PG,18,9,3
+2019-01-01,Commerce,Indian,Aided,SC,PG,36,18,6
+2019-01-01,Commerce,Indian,Aided,ST,PG,30,15,5
+2019-01-01,Commerce,Indian,SFS,BC,PG,186,93,31
+2019-01-01,Commerce,Indian,SFS,MBC,PG,24,12,4
+2019-01-01,Commerce,Indian,SFS,OBC,PG,54,27,9
+2019-01-01,Commerce,Indian,SFS,Others,PG,18,9,3
+2019-01-01,Commerce,Indian,SFS,SC,PG,30,15,5
+2019-01-01,Commerce,Indian,SFS,ST,PG,30,15,5
+2019-01-01,Commerce,Others,Aided,Others,PG,6,3,1
+2019-01-01,Commerce,Others,SFS,BC,PG,30,15,5
+2019-01-01,Commerce,Others,SFS,OBC,PG,6,3,1
+2019-01-01,Commerce,Others,SFS,SC,PG,6,3,1
+2019-01-01,Commerce,Others,SFS,ST,PG,6,3,1
+2019-01-01,Economics,Indian,Aided,BC,PG,108,54,18
+2019-01-01,Economics,Indian,Aided,MBC,PG,18,9,3
+2019-01-01,Economics,Indian,Aided,OBC,PG,72,36,12
+2019-01-01,Economics,Indian,Aided,Others,PG,18,9,3
+2019-01-01,Economics,Indian,Aided,SC,PG,18,9,3
+2019-01-01,Economics,Indian,Aided,ST,PG,24,12,4
+2019-01-01,Economics,Indian,SFS,BC,PG,186,93,31
+2019-01-01,Economics,Indian,SFS,MBC,PG,12,6,2
+2019-01-01,Economics,Indian,SFS,OBC,PG,24,12,4
+2019-01-01,Economics,Indian,SFS,Others,PG,18,9,3
+2019-01-01,Economics,Indian,SFS,SC,PG,24,12,4
+2019-01-01,Economics,Indian,SFS,ST,PG,6,3,1
+2019-01-01,English,Indian,Aided,BC,PG,66,33,11
+2019-01-01,English,Indian,Aided,MBC,PG,30,15,5
+2019-01-01,English,Indian,Aided,OBC,PG,54,27,9
+2019-01-01,English,Indian,Aided,Others,PG,24,12,4
+2019-01-01,English,Indian,Aided,SC,PG,24,12,4
+2019-01-01,English,Indian,Aided,ST,PG,6,3,1
+2019-01-01,English,Indian,SFS,BC,PG,138,69,23
+2019-01-01,English,Indian,SFS,MBC,PG,18,9,3
+2019-01-01,English,Indian,SFS,OBC,PG,30,15,5
+2019-01-01,English,Indian,SFS,Others,PG,6,3,1
+2019-01-01,English,Indian,SFS,SC,PG,12,6,2
+2019-01-01,English,Indian,SFS,ST,PG,12,6,2
+2019-01-01,English,Others,Aided,Others,PG,30,15,5
+2019-01-01,English,Others,SFS,BC,PG,18,9,3
+2019-01-01,English,Others,SFS,MBC,PG,6,3,1
+2019-01-01,English,Others,SFS,OBC,PG,42,21,7
+2019-01-01,English,Others,SFS,SC,PG,6,3,1
+2019-01-01,History,Indian,Aided,BC,PG,72,36,12
+2019-01-01,History,Indian,Aided,MBC,PG,12,6,2
+2019-01-01,History,Indian,Aided,OBC,PG,36,18,6
+2019-01-01,History,Indian,Aided,Others,PG,6,3,1
+2019-01-01,History,Indian,Aided,SC,PG,6,3,1
+2019-01-01,History,Indian,Aided,ST,PG,18,9,3
+2019-01-01,History,Indian,SFS,BC,PG,60,30,10
+2019-01-01,History,Indian,SFS,OBC,PG,66,33,11
+2019-01-01,History,Indian,SFS,Others,PG,6,3,1
+2019-01-01,History,Indian,SFS,SC,PG,24,12,4
+2019-01-01,History,Indian,SFS,ST,PG,12,6,2
+2019-01-01,History,Others,Aided,Others,PG,12,6,2
+2019-01-01,History,Others,SFS,BC,PG,18,9,3
+2019-01-01,Maths,Indian,Aided,BC,PG,42,21,7
+2019-01-01,Maths,Indian,Aided,MBC,PG,18,9,3
+2019-01-01,Maths,Indian,Aided,OBC,PG,78,39,13
+2019-01-01,Maths,Indian,Aided,Others,PG,6,3,1
+2019-01-01,Maths,Indian,Aided,SC,PG,12,6,2
+2019-01-01,Maths,Indian,SFS,BC,PG,102,51,17
+2019-01-01,Maths,Indian,SFS,MBC,PG,18,9,3
+2019-01-01,Maths,Indian,SFS,OBC,PG,24,12,4
+2019-01-01,Maths,Indian,SFS,Others,PG,30,15,5
+2019-01-01,Maths,Indian,SFS,SC,PG,6,3,1
+2019-01-01,Maths,Indian,SFS,ST,PG,6,3,1
+2019-01-01,MCA,Indian,SFS,BC,PG,342,171,57
+2019-01-01,MCA,Indian,SFS,MBC,PG,42,21,7
+2019-01-01,MCA,Indian,SFS,OBC,PG,138,69,23
+2019-01-01,MCA,Indian,SFS,Others,PG,42,21,7
+2019-01-01,MCA,Indian,SFS,SC,PG,60,30,10
+2019-01-01,MCA,Indian,SFS,ST,PG,60,30,10
+2019-01-01,MCA,Others,SFS,BC,PG,24,12,4
+2019-01-01,MCA,Others,SFS,MBC,PG,6,3,1
+2019-01-01,MCA,Others,SFS,OBC,PG,54,27,9
+2019-01-01,MCA,Others,SFS,Others,PG,6,3,1
+2019-01-01,Microbiology,Indian,SFS,BC,PG,186,93,31
+2019-01-01,Microbiology,Indian,SFS,MBC,PG,18,9,3
+2019-01-01,Microbiology,Indian,SFS,OBC,PG,30,15,5
+2019-01-01,Microbiology,Indian,SFS,SC,PG,36,18,6
+2019-01-01,Microbiology,Indian,SFS,ST,PG,6,3,1
+2019-01-01,Philosophy,Indian,Aided,BC,PG,96,48,16
+2019-01-01,Philosophy,Indian,Aided,OBC,PG,24,12,4
+2019-01-01,Philosophy,Indian,Aided,Others,PG,18,9,3
+2019-01-01,Philosophy,Indian,Aided,SC,PG,6,3,1
+2019-01-01,Philosophy,Indian,SFS,BC,PG,60,30,10
+2019-01-01,Philosophy,Indian,SFS,MBC,PG,6,3,1
+2019-01-01,Philosophy,Indian,SFS,OBC,PG,60,30,10
+2019-01-01,Philosophy,Indian,SFS,Others,PG,6,3,1
+2019-01-01,Philosophy,Indian,SFS,SC,PG,6,3,1
+2019-01-01,Philosophy,Indian,SFS,ST,PG,12,6,2
+2019-01-01,Philosophy,Others,SFS,BC,PG,36,18,6
+2019-01-01,Philosophy,Others,SFS,OBC,PG,6,3,1
+2019-01-01,Philosophy,Others,SFS,Others,PG,6,3,1
+2019-01-01,Philosophy,Others,SFS,SC,PG,12,6,2
+2019-01-01,Philosophy,Others,SFS,ST,PG,12,6,2
+2019-01-01,Physics,Indian,Aided,BC,PG,84,42,14
+2019-01-01,Physics,Indian,Aided,MBC,PG,12,6,2
+2019-01-01,Physics,Indian,Aided,OBC,PG,36,18,6
+2019-01-01,Physics,Indian,Aided,Others,PG,12,6,2
+2019-01-01,Physics,Indian,Aided,SC,PG,30,15,5
+2019-01-01,Physics,Indian,SFS,BC,PG,72,36,12
+2019-01-01,Physics,Indian,SFS,MBC,PG,24,12,4
+2019-01-01,Physics,Indian,SFS,OBC,PG,90,45,15
+2019-01-01,Physics,Indian,SFS,Others,PG,12,6,2
+2019-01-01,Physics,Indian,SFS,SC,PG,12,6,2
+2019-01-01,Physics,Indian,SFS,ST,PG,48,24,8
+2019-01-01,Political Science,Indian,Aided,BC,PG,132,66,22
+2019-01-01,Political Science,Indian,Aided,MBC,PG,36,18,6
+2019-01-01,Political Science,Indian,Aided,OBC,PG,48,24,8
+2019-01-01,Political Science,Indian,Aided,SC,PG,18,9,3
+2019-01-01,Political Science,Indian,Aided,ST,PG,30,15,5
+2019-01-01,Political Science,Indian,SFS,BC,PG,150,75,25
+2019-01-01,Political Science,Indian,SFS,MBC,PG,18,9,3
+2019-01-01,Political Science,Indian,SFS,OBC,PG,66,33,11
+2019-01-01,Political Science,Indian,SFS,Others,PG,18,9,3
+2019-01-01,Political Science,Indian,SFS,SC,PG,36,18,6
+2019-01-01,Political Science,Indian,SFS,ST,PG,24,12,4
+2019-01-01,Social Work,Indian,Aided,BC,PG,96,48,16
+2019-01-01,Social Work,Indian,Aided,MBC,PG,12,6,2
+2019-01-01,Social Work,Indian,Aided,OBC,PG,84,42,14
+2019-01-01,Social Work,Indian,Aided,SC,PG,6,3,1
+2019-01-01,Social Work,Indian,Aided,ST,PG,24,12,4
+2019-01-01,Social Work,Indian,SFS,BC,PG,246,123,41
+2019-01-01,Social Work,Indian,SFS,MBC,PG,36,18,6
+2019-01-01,Social Work,Indian,SFS,OBC,PG,120,60,20
+2019-01-01,Social Work,Indian,SFS,Others,PG,24,12,4
+2019-01-01,Social Work,Indian,SFS,SC,PG,48,24,8
+2019-01-01,Social Work,Indian,SFS,ST,PG,66,33,11
+2019-01-01,Statistics,Indian,Aided,BC,PG,138,69,23
+2019-01-01,Statistics,Indian,Aided,MBC,PG,18,9,3
+2019-01-01,Statistics,Indian,Aided,OBC,PG,48,24,8
+2019-01-01,Statistics,Indian,Aided,Others,PG,18,9,3
+2019-01-01,Statistics,Indian,Aided,SC,PG,12,6,2
+2019-01-01,Statistics,Indian,Aided,ST,PG,18,9,3
+2019-01-01,Statistics,Indian,SFS,BC,PG,96,48,16
+2019-01-01,Statistics,Indian,SFS,MBC,PG,18,9,3
+2019-01-01,Statistics,Indian,SFS,OBC,PG,24,12,4
+2019-01-01,Statistics,Indian,SFS,Others,PG,6,3,1
+2019-01-01,Statistics,Indian,SFS,SC,PG,24,12,4
+2019-01-01,Statistics,Indian,SFS,ST,PG,18,9,3
+2019-01-01,Tamil,Indian,Aided,BC,PG,108,54,18
+2019-01-01,Tamil,Indian,Aided,MBC,PG,42,21,7
+2019-01-01,Tamil,Indian,Aided,OBC,PG,42,21,7
+2019-01-01,Tamil,Indian,Aided,Others,PG,12,6,2
+2019-01-01,Tamil,Indian,Aided,SC,PG,18,9,3
+2019-01-01,Tamil,Indian,Aided,ST,PG,30,15,5
+2019-01-01,Tamil,Indian,SFS,BC,PG,108,54,18
+2019-01-01,Tamil,Indian,SFS,MBC,PG,18,9,3
+2019-01-01,Tamil,Indian,SFS,OBC,PG,30,15,5
+2019-01-01,Tamil,Indian,SFS,Others,PG,12,6,2
+2019-01-01,Tamil,Indian,SFS,SC,PG,6,3,1
+2019-01-01,Tamil,Indian,SFS,ST,PG,12,6,2
+2019-01-01,Zoology,Indian,Aided,BC,PG,78,39,13
+2019-01-01,Zoology,Indian,Aided,MBC,PG,12,6,2
+2019-01-01,Zoology,Indian,Aided,OBC,PG,96,48,16
+2019-01-01,Zoology,Indian,Aided,Others,PG,18,9,3
+2019-01-01,Zoology,Indian,Aided,SC,PG,30,15,5
+2019-01-01,Zoology,Indian,Aided,ST,PG,24,12,4
+2019-01-01,Zoology,Indian,SFS,BC,PG,150,75,25
+2019-01-01,Zoology,Indian,SFS,MBC,PG,36,18,6
+2019-01-01,Zoology,Indian,SFS,OBC,PG,30,15,5
+2019-01-01,Zoology,Indian,SFS,Others,PG,12,6,2
+2019-01-01,Zoology,Indian,SFS,SC,PG,18,9,3
+2019-01-01,Zoology,Indian,SFS,ST,PG,24,12,4
+2017-01-01,BCA,Indian,SFS,BC,UG,318,159,53
+2017-01-01,BCA,Indian,SFS,MBC,UG,90,45,15
+2017-01-01,BCA,Indian,SFS,OBC,UG,222,111,37
+2017-01-01,BCA,Indian,SFS,Others,UG,48,24,8
+2017-01-01,BCA,Indian,SFS,SC,UG,102,51,17
+2017-01-01,BCA,Indian,SFS,ST,UG,72,36,12
+2017-01-01,BCA,Others,SFS,BC,UG,18,9,3
+2017-01-01,BCA,Others,SFS,OBC,UG,18,9,3
+2017-01-01,BCA,Others,SFS,ST,UG,6,3,1
+2017-01-01,Botany,Indian,Aided,BC,UG,84,42,14
+2017-01-01,Botany,Indian,Aided,MBC,UG,12,6,2
+2017-01-01,Botany,Indian,Aided,OBC,UG,48,24,8
+2017-01-01,Botany,Indian,Aided,Others,UG,6,3,1
+2017-01-01,Botany,Indian,Aided,SC,UG,18,9,3
+2017-01-01,Botany,Indian,Aided,ST,UG,18,9,3
+2017-01-01,Botany,Indian,SFS,BC,UG,114,57,19
+2017-01-01,Botany,Indian,SFS,MBC,UG,36,18,6
+2017-01-01,Botany,Indian,SFS,OBC,UG,48,24,8
+2017-01-01,Botany,Indian,SFS,Others,UG,18,9,3
+2017-01-01,Botany,Indian,SFS,SC,UG,42,21,7
+2017-01-01,Botany,Indian,SFS,ST,UG,12,6,2
+2017-01-01,Chemistry,Indian,Aided,BC,UG,72,36,12
+2017-01-01,Chemistry,Indian,Aided,MBC,UG,18,9,3
+2017-01-01,Chemistry,Indian,Aided,OBC,UG,30,15,5
+2017-01-01,Chemistry,Indian,Aided,Others,UG,6,3,1
+2017-01-01,Chemistry,Indian,Aided,SC,UG,24,12,4
+2017-01-01,Chemistry,Indian,Aided,ST,UG,12,6,2
+2017-01-01,Chemistry,Indian,SFS,BC,UG,114,57,19
+2017-01-01,Chemistry,Indian,SFS,MBC,UG,24,12,4
+2017-01-01,Chemistry,Indian,SFS,OBC,UG,72,36,12
+2017-01-01,Chemistry,Indian,SFS,Others,UG,12,6,2
+2017-01-01,Chemistry,Indian,SFS,SC,UG,24,12,4
+2017-01-01,Chemistry,Indian,SFS,ST,UG,30,15,5
+2017-01-01,Commerce,Indian,Aided,BC,UG,186,93,31
+2017-01-01,Commerce,Indian,Aided,MBC,UG,12,6,2
+2017-01-01,Commerce,Indian,Aided,OBC,UG,48,24,8
+2017-01-01,Commerce,Indian,Aided,SC,UG,18,9,3
+2017-01-01,Commerce,Indian,Aided,ST,UG,24,12,4
+2017-01-01,Commerce,Indian,SFS,BC,UG,444,222,74
+2017-01-01,Commerce,Indian,SFS,MBC,UG,90,45,15
+2017-01-01,Commerce,Indian,SFS,OBC,UG,264,132,44
+2017-01-01,Commerce,Indian,SFS,Others,UG,54,27,9
+2017-01-01,Commerce,Indian,SFS,SC,UG,102,51,17
+2017-01-01,Commerce,Indian,SFS,ST,UG,102,51,17
+2017-01-01,Commerce,Others,Aided,Others,UG,12,6,2
+2017-01-01,Commerce,Others,SFS,BC,UG,36,18,6
+2017-01-01,Commerce,Others,SFS,SC,UG,6,3,1
+2017-01-01,Economics,Indian,Aided,BC,UG,108,54,18
+2017-01-01,Economics,Indian,Aided,MBC,UG,12,6,2
+2017-01-01,Economics,Indian,Aided,OBC,UG,90,45,15
+2017-01-01,Economics,Indian,Aided,Others,UG,12,6,2
+2017-01-01,Economics,Indian,Aided,SC,UG,18,9,3
+2017-01-01,Economics,Indian,Aided,ST,UG,42,21,7
+2017-01-01,Economics,Indian,SFS,BC,UG,162,81,27
+2017-01-01,Economics,Indian,SFS,MBC,UG,12,6,2
+2017-01-01,Economics,Indian,SFS,OBC,UG,108,54,18
+2017-01-01,Economics,Indian,SFS,Others,UG,30,15,5
+2017-01-01,Economics,Indian,SFS,SC,UG,24,12,4
+2017-01-01,Economics,Indian,SFS,ST,UG,30,15,5
+2017-01-01,English,Indian,Aided,BC,UG,84,42,14
+2017-01-01,English,Indian,Aided,MBC,UG,30,15,5
+2017-01-01,English,Indian,Aided,OBC,UG,54,27,9
+2017-01-01,English,Indian,Aided,Others,UG,24,12,4
+2017-01-01,English,Indian,Aided,SC,UG,12,6,2
+2017-01-01,English,Indian,SFS,BC,UG,120,60,20
+2017-01-01,English,Indian,SFS,MBC,UG,6,3,1
+2017-01-01,English,Indian,SFS,OBC,UG,132,66,22
+2017-01-01,English,Indian,SFS,Others,UG,18,9,3
+2017-01-01,English,Indian,SFS,SC,UG,18,9,3
+2017-01-01,English,Indian,SFS,ST,UG,36,18,6
+2017-01-01,English,Others,Aided,Others,UG,18,9,3
+2017-01-01,English,Others,SFS,BC,UG,18,9,3
+2017-01-01,English,Others,SFS,OBC,UG,30,15,5
+2017-01-01,English,Others,SFS,SC,UG,6,3,1
+2017-01-01,English,Others,SFS,ST,UG,12,6,2
+2017-01-01,History,Indian,Aided,BC,UG,102,51,17
+2017-01-01,History,Indian,Aided,MBC,UG,6,3,1
+2017-01-01,History,Indian,Aided,OBC,UG,60,30,10
+2017-01-01,History,Indian,Aided,SC,UG,24,12,4
+2017-01-01,History,Indian,Aided,ST,UG,12,6,2
+2017-01-01,History,Indian,SFS,BC,UG,198,99,33
+2017-01-01,History,Indian,SFS,MBC,UG,30,15,5
+2017-01-01,History,Indian,SFS,OBC,UG,72,36,12
+2017-01-01,History,Indian,SFS,SC,UG,30,15,5
+2017-01-01,History,Indian,SFS,ST,UG,42,21,7
+2017-01-01,History,Others,Aided,Others,UG,12,6,2
+2017-01-01,History,Others,SFS,BC,UG,12,6,2
+2017-01-01,History,Others,SFS,OBC,UG,18,9,3
+2017-01-01,Maths,Indian,Aided,BC,UG,96,48,16
+2017-01-01,Maths,Indian,Aided,MBC,UG,6,3,1
+2017-01-01,Maths,Indian,Aided,OBC,UG,24,12,4
+2017-01-01,Maths,Indian,Aided,Others,UG,6,3,1
+2017-01-01,Maths,Indian,Aided,SC,UG,18,9,3
+2017-01-01,Maths,Indian,Aided,ST,UG,12,6,2
+2017-01-01,Maths,Indian,SFS,BC,UG,108,54,18
+2017-01-01,Maths,Indian,SFS,MBC,UG,24,12,4
+2017-01-01,Maths,Indian,SFS,OBC,UG,90,45,15
+2017-01-01,Maths,Indian,SFS,Others,UG,12,6,2
+2017-01-01,Maths,Indian,SFS,SC,UG,30,15,5
+2017-01-01,Maths,Indian,SFS,ST,UG,36,18,6
+2017-01-01,Microbiology,Indian,SFS,BC,UG,204,102,34
+2017-01-01,Microbiology,Indian,SFS,MBC,UG,30,15,5
+2017-01-01,Microbiology,Indian,SFS,OBC,UG,96,48,16
+2017-01-01,Microbiology,Indian,SFS,Others,UG,12,6,2
+2017-01-01,Microbiology,Indian,SFS,SC,UG,54,27,9
+2017-01-01,Microbiology,Indian,SFS,ST,UG,36,18,6
+2017-01-01,PET,Indian,SFS,BC,UG,258,129,43
+2017-01-01,PET,Indian,SFS,MBC,UG,66,33,11
+2017-01-01,PET,Indian,SFS,OBC,UG,126,63,21
+2017-01-01,PET,Indian,SFS,Others,UG,30,15,5
+2017-01-01,PET,Indian,SFS,SC,UG,60,30,10
+2017-01-01,PET,Indian,SFS,ST,UG,54,27,9
+2017-01-01,PET,Others,SFS,BC,UG,42,21,7
+2017-01-01,PET,Others,SFS,MBC,UG,12,6,2
+2017-01-01,PET,Others,SFS,OBC,UG,18,9,3
+2017-01-01,PET,Others,SFS,Others,UG,6,3,1
+2017-01-01,PET,Others,SFS,ST,UG,18,9,3
+2017-01-01,Philosophy,Indian,Aided,BC,UG,90,45,15
+2017-01-01,Philosophy,Indian,Aided,MBC,UG,18,9,3
+2017-01-01,Philosophy,Indian,Aided,OBC,UG,42,21,7
+2017-01-01,Philosophy,Indian,Aided,Others,UG,6,3,1
+2017-01-01,Philosophy,Indian,Aided,SC,UG,12,6,2
+2017-01-01,Philosophy,Indian,Aided,ST,UG,30,15,5
+2017-01-01,Philosophy,Indian,SFS,BC,UG,78,39,13
+2017-01-01,Philosophy,Indian,SFS,MBC,UG,12,6,2
+2017-01-01,Philosophy,Indian,SFS,OBC,UG,96,48,16
+2017-01-01,Philosophy,Indian,SFS,Others,UG,12,6,2
+2017-01-01,Philosophy,Indian,SFS,SC,UG,18,9,3
+2017-01-01,Philosophy,Indian,SFS,ST,UG,30,15,5
+2017-01-01,Philosophy,Others,Aided,Others,UG,12,6,2
+2017-01-01,Philosophy,Others,SFS,BC,UG,24,12,4
+2017-01-01,Philosophy,Others,SFS,OBC,UG,6,3,1
+2017-01-01,Philosophy,Others,SFS,Others,UG,6,3,1
+2017-01-01,Philosophy,Others,SFS,ST,UG,18,9,3
+2017-01-01,Physics,Indian,Aided,BC,UG,72,36,12
+2017-01-01,Physics,Indian,Aided,MBC,UG,12,6,2
+2017-01-01,Physics,Indian,Aided,OBC,UG,48,24,8
+2017-01-01,Physics,Indian,Aided,Others,UG,6,3,1
+2017-01-01,Physics,Indian,Aided,SC,UG,6,3,1
+2017-01-01,Physics,Indian,Aided,ST,UG,36,18,6
+2017-01-01,Physics,Indian,SFS,BC,UG,126,63,21
+2017-01-01,Physics,Indian,SFS,MBC,UG,36,18,6
+2017-01-01,Physics,Indian,SFS,OBC,UG,78,39,13
+2017-01-01,Physics,Indian,SFS,Others,UG,24,12,4
+2017-01-01,Physics,Indian,SFS,SC,UG,30,15,5
+2017-01-01,Physics,Indian,SFS,ST,UG,18,9,3
+2017-01-01,Political Science,Indian,Aided,BC,UG,102,51,17
+2017-01-01,Political Science,Indian,Aided,MBC,UG,12,6,2
+2017-01-01,Political Science,Indian,Aided,OBC,UG,78,39,13
+2017-01-01,Political Science,Indian,Aided,Others,UG,24,12,4
+2017-01-01,Political Science,Indian,Aided,SC,UG,24,12,4
+2017-01-01,Political Science,Indian,Aided,ST,UG,12,6,2
+2017-01-01,Political Science,Indian,SFS,BC,UG,192,96,32
+2017-01-01,Political Science,Indian,SFS,MBC,UG,54,27,9
+2017-01-01,Political Science,Indian,SFS,OBC,UG,96,48,16
+2017-01-01,Political Science,Indian,SFS,Others,UG,18,9,3
+2017-01-01,Political Science,Indian,SFS,SC,UG,36,18,6
+2017-01-01,Political Science,Indian,SFS,ST,UG,30,15,5
+2017-01-01,Social Work,Indian,Aided,BC,UG,102,51,17
+2017-01-01,Social Work,Indian,Aided,MBC,UG,36,18,6
+2017-01-01,Social Work,Indian,Aided,OBC,UG,48,24,8
+2017-01-01,Social Work,Indian,Aided,Others,UG,6,3,1
+2017-01-01,Social Work,Indian,Aided,SC,UG,42,21,7
+2017-01-01,Social Work,Indian,Aided,ST,UG,24,12,4
+2017-01-01,Social Work,Indian,SFS,BC,UG,198,99,33
+2017-01-01,Social Work,Indian,SFS,MBC,UG,24,12,4
+2017-01-01,Social Work,Indian,SFS,OBC,UG,126,63,21
+2017-01-01,Social Work,Indian,SFS,Others,UG,18,9,3
+2017-01-01,Social Work,Indian,SFS,SC,UG,54,27,9
+2017-01-01,Social Work,Indian,SFS,ST,UG,48,24,8
+2017-01-01,Statistics,Indian,Aided,BC,UG,108,54,18
+2017-01-01,Statistics,Indian,Aided,MBC,UG,24,12,4
+2017-01-01,Statistics,Indian,Aided,OBC,UG,30,15,5
+2017-01-01,Statistics,Indian,Aided,Others,UG,12,6,2
+2017-01-01,Statistics,Indian,Aided,SC,UG,24,12,4
+2017-01-01,Statistics,Indian,Aided,ST,UG,18,9,3
+2017-01-01,Statistics,Indian,SFS,BC,UG,234,117,39
+2017-01-01,Statistics,Indian,SFS,MBC,UG,36,18,6
+2017-01-01,Statistics,Indian,SFS,OBC,UG,132,66,22
+2017-01-01,Statistics,Indian,SFS,Others,UG,18,9,3
+2017-01-01,Statistics,Indian,SFS,SC,UG,36,18,6
+2017-01-01,Statistics,Indian,SFS,ST,UG,30,15,5
+2017-01-01,Tamil,Indian,Aided,BC,UG,120,60,20
+2017-01-01,Tamil,Indian,Aided,MBC,UG,12,6,2
+2017-01-01,Tamil,Indian,Aided,OBC,UG,42,21,7
+2017-01-01,Tamil,Indian,Aided,Others,UG,6,3,1
+2017-01-01,Tamil,Indian,Aided,SC,UG,24,12,4
+2017-01-01,Tamil,Indian,Aided,ST,UG,30,15,5
+2017-01-01,Tamil,Indian,SFS,BC,UG,120,60,20
+2017-01-01,Tamil,Indian,SFS,MBC,UG,30,15,5
+2017-01-01,Tamil,Indian,SFS,OBC,UG,72,36,12
+2017-01-01,Tamil,Indian,SFS,Others,UG,24,12,4
+2017-01-01,Tamil,Indian,SFS,SC,UG,18,9,3
+2017-01-01,Tamil,Indian,SFS,ST,UG,12,6,2
+2017-01-01,Zoology,Indian,Aided,BC,UG,120,60,20
+2017-01-01,Zoology,Indian,Aided,MBC,UG,12,6,2
+2017-01-01,Zoology,Indian,Aided,OBC,UG,6,3,1
+2017-01-01,Zoology,Indian,Aided,Others,UG,18,9,3
+2017-01-01,Zoology,Indian,Aided,SC,UG,24,12,4
+2017-01-01,Zoology,Indian,Aided,ST,UG,6,3,1
+2017-01-01,Zoology,Indian,SFS,BC,UG,90,45,15
+2017-01-01,Zoology,Indian,SFS,MBC,UG,30,15,5
+2017-01-01,Zoology,Indian,SFS,OBC,UG,24,12,4
+2017-01-01,Zoology,Indian,SFS,Others,UG,6,3,1
+2017-01-01,Zoology,Indian,SFS,SC,UG,30,15,5
+2017-01-01,Zoology,Indian,SFS,ST,UG,30,15,5
+2018-01-01,BCA,Indian,SFS,BC,UG,330,165,55
+2018-01-01,BCA,Indian,SFS,MBC,UG,78,39,13
+2018-01-01,BCA,Indian,SFS,OBC,UG,252,126,42
+2018-01-01,BCA,Indian,SFS,Others,UG,30,15,5
+2018-01-01,BCA,Indian,SFS,SC,UG,108,54,18
+2018-01-01,BCA,Indian,SFS,ST,UG,108,54,18
+2018-01-01,BCA,Others,SFS,BC,UG,36,18,6
+2018-01-01,BCA,Others,SFS,OBC,UG,12,6,2
+2018-01-01,BCA,Others,SFS,SC,UG,18,9,3
+2018-01-01,BCA,Others,SFS,ST,UG,24,12,4
+2018-01-01,Botany,Indian,Aided,BC,UG,42,21,7
+2018-01-01,Botany,Indian,Aided,MBC,UG,36,18,6
+2018-01-01,Botany,Indian,Aided,OBC,UG,60,30,10
+2018-01-01,Botany,Indian,Aided,Others,UG,12,6,2
+2018-01-01,Botany,Indian,Aided,SC,UG,24,12,4
+2018-01-01,Botany,Indian,Aided,ST,UG,36,18,6
+2018-01-01,Botany,Indian,SFS,BC,UG,174,87,29
+2018-01-01,Botany,Indian,SFS,MBC,UG,18,9,3
+2018-01-01,Botany,Indian,SFS,OBC,UG,54,27,9
+2018-01-01,Botany,Indian,SFS,Others,UG,12,6,2
+2018-01-01,Botany,Indian,SFS,SC,UG,12,6,2
+2018-01-01,Botany,Indian,SFS,ST,UG,30,15,5
+2018-01-01,Chemistry,Indian,Aided,BC,UG,84,42,14
+2018-01-01,Chemistry,Indian,Aided,MBC,UG,24,12,4
+2018-01-01,Chemistry,Indian,Aided,OBC,UG,36,18,6
+2018-01-01,Chemistry,Indian,Aided,SC,UG,12,6,2
+2018-01-01,Chemistry,Indian,Aided,ST,UG,24,12,4
+2018-01-01,Chemistry,Indian,SFS,BC,UG,138,69,23
+2018-01-01,Chemistry,Indian,SFS,MBC,UG,18,9,3
+2018-01-01,Chemistry,Indian,SFS,OBC,UG,102,51,17
+2018-01-01,Chemistry,Indian,SFS,Others,UG,6,3,1
+2018-01-01,Chemistry,Indian,SFS,SC,UG,30,15,5
+2018-01-01,Chemistry,Indian,SFS,ST,UG,48,24,8
+2018-01-01,Commerce,Indian,Aided,BC,UG,198,99,33
+2018-01-01,Commerce,Indian,Aided,MBC,UG,24,12,4
+2018-01-01,Commerce,Indian,Aided,OBC,UG,66,33,11
+2018-01-01,Commerce,Indian,Aided,Others,UG,24,12,4
+2018-01-01,Commerce,Indian,Aided,SC,UG,30,15,5
+2018-01-01,Commerce,Indian,Aided,ST,UG,24,12,4
+2018-01-01,Commerce,Indian,SFS,BC,UG,534,267,89
+2018-01-01,Commerce,Indian,SFS,MBC,UG,102,51,17
+2018-01-01,Commerce,Indian,SFS,OBC,UG,324,162,54
+2018-01-01,Commerce,Indian,SFS,Others,UG,60,30,10
+2018-01-01,Commerce,Indian,SFS,SC,UG,132,66,22
+2018-01-01,Commerce,Indian,SFS,ST,UG,126,63,21
+2018-01-01,Commerce,Others,Aided,Others,UG,18,9,3
+2018-01-01,Commerce,Others,SFS,BC,UG,24,12,4
+2018-01-01,Commerce,Others,SFS,MBC,UG,18,9,3
+2018-01-01,Commerce,Others,SFS,OBC,UG,12,6,2
+2018-01-01,Commerce,Others,SFS,SC,UG,12,6,2
+2018-01-01,Commerce,Others,SFS,ST,UG,12,6,2
+2018-01-01,Economics,Indian,Aided,BC,UG,96,48,16
+2018-01-01,Economics,Indian,Aided,MBC,UG,36,18,6
+2018-01-01,Economics,Indian,Aided,OBC,UG,102,51,17
+2018-01-01,Economics,Indian,Aided,Others,UG,18,9,3
+2018-01-01,Economics,Indian,Aided,SC,UG,36,18,6
+2018-01-01,Economics,Indian,Aided,ST,UG,30,15,5
+2018-01-01,Economics,Indian,SFS,BC,UG,204,102,34
+2018-01-01,Economics,Indian,SFS,MBC,UG,48,24,8
+2018-01-01,Economics,Indian,SFS,OBC,UG,120,60,20
+2018-01-01,Economics,Indian,SFS,Others,UG,18,9,3
+2018-01-01,Economics,Indian,SFS,SC,UG,54,27,9
+2018-01-01,Economics,Indian,SFS,ST,UG,42,21,7
+2018-01-01,English,Indian,Aided,BC,UG,114,57,19
+2018-01-01,English,Indian,Aided,MBC,UG,18,9,3
+2018-01-01,English,Indian,Aided,OBC,UG,60,30,10
+2018-01-01,English,Indian,Aided,Others,UG,30,15,5
+2018-01-01,English,Indian,Aided,SC,UG,12,6,2
+2018-01-01,English,Indian,Aided,ST,UG,6,3,1
+2018-01-01,English,Indian,SFS,BC,UG,192,96,32
+2018-01-01,English,Indian,SFS,MBC,UG,18,9,3
+2018-01-01,English,Indian,SFS,OBC,UG,102,51,17
+2018-01-01,English,Indian,SFS,Others,UG,24,12,4
+2018-01-01,English,Indian,SFS,SC,UG,36,18,6
+2018-01-01,English,Indian,SFS,ST,UG,24,12,4
+2018-01-01,English,Others,Aided,Others,UG,24,12,4
+2018-01-01,English,Others,SFS,BC,UG,12,6,2
+2018-01-01,English,Others,SFS,OBC,UG,12,6,2
+2018-01-01,English,Others,SFS,Others,UG,12,6,2
+2018-01-01,English,Others,SFS,SC,UG,6,3,1
+2018-01-01,English,Others,SFS,ST,UG,12,6,2
+2018-01-01,History,Indian,Aided,BC,UG,132,66,22
+2018-01-01,History,Indian,Aided,MBC,UG,6,3,1
+2018-01-01,History,Indian,Aided,OBC,UG,54,27,9
+2018-01-01,History,Indian,Aided,Others,UG,6,3,1
+2018-01-01,History,Indian,Aided,SC,UG,6,3,1
+2018-01-01,History,Indian,Aided,ST,UG,12,6,2
+2018-01-01,History,Indian,SFS,BC,UG,210,105,35
+2018-01-01,History,Indian,SFS,MBC,UG,36,18,6
+2018-01-01,History,Indian,SFS,OBC,UG,72,36,12
+2018-01-01,History,Indian,SFS,Others,UG,24,12,4
+2018-01-01,History,Indian,SFS,SC,UG,42,21,7
+2018-01-01,History,Indian,SFS,ST,UG,24,12,4
+2018-01-01,History,Others,Aided,Others,UG,18,9,3
+2018-01-01,History,Others,SFS,BC,UG,18,9,3
+2018-01-01,History,Others,SFS,MBC,UG,12,6,2
+2018-01-01,Maths,Indian,Aided,BC,UG,66,33,11
+2018-01-01,Maths,Indian,Aided,MBC,UG,30,15,5
+2018-01-01,Maths,Indian,Aided,OBC,UG,48,24,8
+2018-01-01,Maths,Indian,Aided,SC,UG,18,9,3
+2018-01-01,Maths,Indian,Aided,ST,UG,30,15,5
+2018-01-01,Maths,Indian,SFS,BC,UG,132,66,22
+2018-01-01,Maths,Indian,SFS,MBC,UG,48,24,8
+2018-01-01,Maths,Indian,SFS,OBC,UG,126,63,21
+2018-01-01,Maths,Indian,SFS,Others,UG,6,3,1
+2018-01-01,Maths,Indian,SFS,SC,UG,60,30,10
+2018-01-01,Maths,Indian,SFS,ST,UG,42,21,7
+2018-01-01,Microbiology,Indian,SFS,BC,UG,210,105,35
+2018-01-01,Microbiology,Indian,SFS,MBC,UG,42,21,7
+2018-01-01,Microbiology,Indian,SFS,OBC,UG,90,45,15
+2018-01-01,Microbiology,Indian,SFS,Others,UG,24,12,4
+2018-01-01,Microbiology,Indian,SFS,SC,UG,24,12,4
+2018-01-01,Microbiology,Indian,SFS,ST,UG,36,18,6
+2018-01-01,PET,Indian,SFS,BC,UG,282,141,47
+2018-01-01,PET,Indian,SFS,MBC,UG,72,36,12
+2018-01-01,PET,Indian,SFS,OBC,UG,126,63,21
+2018-01-01,PET,Indian,SFS,Others,UG,66,33,11
+2018-01-01,PET,Indian,SFS,SC,UG,66,33,11
+2018-01-01,PET,Indian,SFS,ST,UG,42,21,7
+2018-01-01,PET,Others,SFS,BC,UG,12,6,2
+2018-01-01,PET,Others,SFS,OBC,UG,48,24,8
+2018-01-01,PET,Others,SFS,ST,UG,6,3,1
+2018-01-01,Philosophy,Indian,Aided,BC,UG,126,63,21
+2018-01-01,Philosophy,Indian,Aided,MBC,UG,24,12,4
+2018-01-01,Philosophy,Indian,Aided,OBC,UG,60,30,10
+2018-01-01,Philosophy,Indian,Aided,Others,UG,6,3,1
+2018-01-01,Philosophy,Indian,Aided,SC,UG,24,12,4
+2018-01-01,Philosophy,Indian,Aided,ST,UG,6,3,1
+2018-01-01,Philosophy,Indian,SFS,BC,UG,156,78,26
+2018-01-01,Philosophy,Indian,SFS,MBC,UG,12,6,2
+2018-01-01,Philosophy,Indian,SFS,OBC,UG,78,39,13
+2018-01-01,Philosophy,Indian,SFS,SC,UG,42,21,7
+2018-01-01,Philosophy,Indian,SFS,ST,UG,42,21,7
+2018-01-01,Philosophy,Others,Aided,Others,UG,12,6,2
+2018-01-01,Philosophy,Others,SFS,BC,UG,24,12,4
+2018-01-01,Philosophy,Others,SFS,SC,UG,6,3,1
+2018-01-01,Philosophy,Others,SFS,ST,UG,6,3,1
+2018-01-01,Physics,Indian,Aided,BC,UG,84,42,14
+2018-01-01,Physics,Indian,Aided,MBC,UG,30,15,5
+2018-01-01,Physics,Indian,Aided,OBC,UG,48,24,8
+2018-01-01,Physics,Indian,Aided,Others,UG,12,6,2
+2018-01-01,Physics,Indian,Aided,SC,UG,12,6,2
+2018-01-01,Physics,Indian,Aided,ST,UG,24,12,4
+2018-01-01,Physics,Indian,SFS,BC,UG,222,111,37
+2018-01-01,Physics,Indian,SFS,MBC,UG,18,9,3
+2018-01-01,Physics,Indian,SFS,OBC,UG,42,21,7
+2018-01-01,Physics,Indian,SFS,Others,UG,18,9,3
+2018-01-01,Physics,Indian,SFS,SC,UG,42,21,7
+2018-01-01,Physics,Indian,SFS,ST,UG,12,6,2
+2018-01-01,Political Science,Indian,Aided,BC,UG,114,57,19
+2018-01-01,Political Science,Indian,Aided,MBC,UG,6,3,1
+2018-01-01,Political Science,Indian,Aided,OBC,UG,96,48,16
+2018-01-01,Political Science,Indian,Aided,Others,UG,6,3,1
+2018-01-01,Political Science,Indian,Aided,SC,UG,24,12,4
+2018-01-01,Political Science,Indian,Aided,ST,UG,66,33,11
+2018-01-01,Political Science,Indian,SFS,BC,UG,204,102,34
+2018-01-01,Political Science,Indian,SFS,MBC,UG,42,21,7
+2018-01-01,Political Science,Indian,SFS,OBC,UG,114,57,19
+2018-01-01,Political Science,Indian,SFS,Others,UG,30,15,5
+2018-01-01,Political Science,Indian,SFS,SC,UG,54,27,9
+2018-01-01,Political Science,Indian,SFS,ST,UG,36,18,6
+2018-01-01,Social Work,Indian,Aided,BC,UG,132,66,22
+2018-01-01,Social Work,Indian,Aided,MBC,UG,30,15,5
+2018-01-01,Social Work,Indian,Aided,OBC,UG,120,60,20
+2018-01-01,Social Work,Indian,Aided,Others,UG,24,12,4
+2018-01-01,Social Work,Indian,Aided,SC,UG,42,21,7
+2018-01-01,Social Work,Indian,Aided,ST,UG,54,27,9
+2018-01-01,Social Work,Indian,SFS,BC,UG,234,117,39
+2018-01-01,Social Work,Indian,SFS,MBC,UG,54,27,9
+2018-01-01,Social Work,Indian,SFS,OBC,UG,108,54,18
+2018-01-01,Social Work,Indian,SFS,Others,UG,36,18,6
+2018-01-01,Social Work,Indian,SFS,SC,UG,48,24,8
+2018-01-01,Social Work,Indian,SFS,ST,UG,48,24,8
+2018-01-01,Statistics,Indian,Aided,BC,UG,96,48,16
+2018-01-01,Statistics,Indian,Aided,MBC,UG,12,6,2
+2018-01-01,Statistics,Indian,Aided,OBC,UG,78,39,13
+2018-01-01,Statistics,Indian,Aided,Others,UG,12,6,2
+2018-01-01,Statistics,Indian,Aided,SC,UG,36,18,6
+2018-01-01,Statistics,Indian,Aided,ST,UG,36,18,6
+2018-01-01,Statistics,Indian,SFS,BC,UG,180,90,30
+2018-01-01,Statistics,Indian,SFS,MBC,UG,42,21,7
+2018-01-01,Statistics,Indian,SFS,OBC,UG,162,81,27
+2018-01-01,Statistics,Indian,SFS,Others,UG,24,12,4
+2018-01-01,Statistics,Indian,SFS,SC,UG,36,18,6
+2018-01-01,Statistics,Indian,SFS,ST,UG,36,18,6
+2018-01-01,Tamil,Indian,Aided,BC,UG,96,48,16
+2018-01-01,Tamil,Indian,Aided,MBC,UG,24,12,4
+2018-01-01,Tamil,Indian,Aided,OBC,UG,48,24,8
+2018-01-01,Tamil,Indian,Aided,Others,UG,24,12,4
+2018-01-01,Tamil,Indian,Aided,SC,UG,18,9,3
+2018-01-01,Tamil,Indian,Aided,ST,UG,24,12,4
+2018-01-01,Tamil,Indian,SFS,BC,UG,150,75,25
+2018-01-01,Tamil,Indian,SFS,MBC,UG,6,3,1
+2018-01-01,Tamil,Indian,SFS,OBC,UG,114,57,19
+2018-01-01,Tamil,Indian,SFS,Others,UG,6,3,1
+2018-01-01,Tamil,Indian,SFS,SC,UG,60,30,10
+2018-01-01,Tamil,Indian,SFS,ST,UG,36,18,6
+2018-01-01,Zoology,Indian,Aided,BC,UG,84,42,14
+2018-01-01,Zoology,Indian,Aided,MBC,UG,48,24,8
+2018-01-01,Zoology,Indian,Aided,OBC,UG,42,21,7
+2018-01-01,Zoology,Indian,Aided,Others,UG,18,9,3
+2018-01-01,Zoology,Indian,Aided,SC,UG,42,21,7
+2018-01-01,Zoology,Indian,Aided,ST,UG,12,6,2
+2018-01-01,Zoology,Indian,SFS,BC,UG,120,60,20
+2018-01-01,Zoology,Indian,SFS,MBC,UG,6,3,1
+2018-01-01,Zoology,Indian,SFS,OBC,UG,72,36,12
+2018-01-01,Zoology,Indian,SFS,Others,UG,36,18,6
+2018-01-01,Zoology,Indian,SFS,SC,UG,36,18,6
+2018-01-01,Zoology,Indian,SFS,ST,UG,24,12,4
+2019-01-01,BCA,Indian,SFS,BC,UG,390,195,65
+2019-01-01,BCA,Indian,SFS,MBC,UG,54,27,9
+2019-01-01,BCA,Indian,SFS,OBC,UG,126,63,21
+2019-01-01,BCA,Indian,SFS,Others,UG,42,21,7
+2019-01-01,BCA,Indian,SFS,SC,UG,66,33,11
+2019-01-01,BCA,Indian,SFS,ST,UG,84,42,14
+2019-01-01,BCA,Others,SFS,BC,UG,12,6,2
+2019-01-01,BCA,Others,SFS,OBC,UG,24,12,4
+2019-01-01,BCA,Others,SFS,SC,UG,6,3,1
+2019-01-01,Botany,Indian,Aided,BC,UG,102,51,17
+2019-01-01,Botany,Indian,Aided,OBC,UG,84,42,14
+2019-01-01,Botany,Indian,Aided,SC,UG,12,6,2
+2019-01-01,Botany,Indian,Aided,ST,UG,36,18,6
+2019-01-01,Botany,Indian,SFS,BC,UG,78,39,13
+2019-01-01,Botany,Indian,SFS,OBC,UG,84,42,14
+2019-01-01,Botany,Indian,SFS,Others,UG,12,6,2
+2019-01-01,Botany,Indian,SFS,SC,UG,36,18,6
+2019-01-01,Botany,Indian,SFS,ST,UG,24,12,4
+2019-01-01,Chemistry,Indian,Aided,BC,UG,108,54,18
+2019-01-01,Chemistry,Indian,Aided,MBC,UG,12,6,2
+2019-01-01,Chemistry,Indian,Aided,OBC,UG,54,27,9
+2019-01-01,Chemistry,Indian,Aided,Others,UG,6,3,1
+2019-01-01,Chemistry,Indian,Aided,SC,UG,18,9,3
+2019-01-01,Chemistry,Indian,Aided,ST,UG,24,12,4
+2019-01-01,Chemistry,Indian,SFS,BC,UG,216,108,36
+2019-01-01,Chemistry,Indian,SFS,MBC,UG,18,9,3
+2019-01-01,Chemistry,Indian,SFS,OBC,UG,30,15,5
+2019-01-01,Chemistry,Indian,SFS,Others,UG,12,6,2
+2019-01-01,Chemistry,Indian,SFS,SC,UG,24,12,4
+2019-01-01,Chemistry,Indian,SFS,ST,UG,12,6,2
+2019-01-01,Commerce,Indian,Aided,BC,UG,222,111,37
+2019-01-01,Commerce,Indian,Aided,MBC,UG,18,9,3
+2019-01-01,Commerce,Indian,Aided,OBC,UG,84,42,14
+2019-01-01,Commerce,Indian,Aided,Others,UG,24,12,4
+2019-01-01,Commerce,Indian,Aided,SC,UG,18,9,3
+2019-01-01,Commerce,Indian,Aided,ST,UG,12,6,2
+2019-01-01,Commerce,Indian,SFS,BC,UG,504,252,84
+2019-01-01,Commerce,Indian,SFS,MBC,UG,120,60,20
+2019-01-01,Commerce,Indian,SFS,OBC,UG,210,105,35
+2019-01-01,Commerce,Indian,SFS,Others,UG,60,30,10
+2019-01-01,Commerce,Indian,SFS,SC,UG,108,54,18
+2019-01-01,Commerce,Indian,SFS,ST,UG,108,54,18
+2019-01-01,Commerce,Others,Aided,Others,UG,30,15,5
+2019-01-01,Commerce,Others,SFS,BC,UG,42,21,7
+2019-01-01,Commerce,Others,SFS,MBC,UG,12,6,2
+2019-01-01,Commerce,Others,SFS,ST,UG,6,3,1
+2019-01-01,Economics,Indian,Aided,BC,UG,162,81,27
+2019-01-01,Economics,Indian,Aided,MBC,UG,54,27,9
+2019-01-01,Economics,Indian,Aided,OBC,UG,36,18,6
+2019-01-01,Economics,Indian,Aided,Others,UG,24,12,4
+2019-01-01,Economics,Indian,Aided,SC,UG,66,33,11
+2019-01-01,Economics,Indian,Aided,ST,UG,30,15,5
+2019-01-01,Economics,Indian,SFS,BC,UG,216,108,36
+2019-01-01,Economics,Indian,SFS,MBC,UG,48,24,8
+2019-01-01,Economics,Indian,SFS,OBC,UG,96,48,16
+2019-01-01,Economics,Indian,SFS,Others,UG,6,3,1
+2019-01-01,Economics,Indian,SFS,SC,UG,30,15,5
+2019-01-01,Economics,Indian,SFS,ST,UG,66,33,11
+2019-01-01,English,Indian,Aided,BC,UG,108,54,18
+2019-01-01,English,Indian,Aided,MBC,UG,36,18,6
+2019-01-01,English,Indian,Aided,OBC,UG,66,33,11
+2019-01-01,English,Indian,Aided,Others,UG,18,9,3
+2019-01-01,English,Indian,Aided,ST,UG,6,3,1
+2019-01-01,English,Indian,SFS,BC,UG,216,108,36
+2019-01-01,English,Indian,SFS,MBC,UG,66,33,11
+2019-01-01,English,Indian,SFS,OBC,UG,48,24,8
+2019-01-01,English,Indian,SFS,Others,UG,6,3,1
+2019-01-01,English,Indian,SFS,SC,UG,42,21,7
+2019-01-01,English,Indian,SFS,ST,UG,48,24,8
+2019-01-01,English,Others,Aided,Others,UG,18,9,3
+2019-01-01,English,Others,SFS,BC,UG,24,12,4
+2019-01-01,English,Others,SFS,OBC,UG,30,15,5
+2019-01-01,English,Others,SFS,ST,UG,6,3,1
+2019-01-01,History,Indian,Aided,BC,UG,150,75,25
+2019-01-01,History,Indian,Aided,MBC,UG,6,3,1
+2019-01-01,History,Indian,Aided,OBC,UG,48,24,8
+2019-01-01,History,Indian,Aided,Others,UG,12,6,2
+2019-01-01,History,Indian,Aided,SC,UG,18,9,3
+2019-01-01,History,Indian,Aided,ST,UG,24,12,4
+2019-01-01,History,Indian,SFS,BC,UG,234,117,39
+2019-01-01,History,Indian,SFS,MBC,UG,30,15,5
+2019-01-01,History,Indian,SFS,OBC,UG,84,42,14
+2019-01-01,History,Indian,SFS,Others,UG,18,9,3
+2019-01-01,History,Indian,SFS,SC,UG,30,15,5
+2019-01-01,History,Indian,SFS,ST,UG,36,18,6
+2019-01-01,History,Others,SFS,BC,UG,42,21,7
+2019-01-01,Maths,Indian,Aided,BC,UG,84,42,14
+2019-01-01,Maths,Indian,Aided,MBC,UG,30,15,5
+2019-01-01,Maths,Indian,Aided,OBC,UG,42,21,7
+2019-01-01,Maths,Indian,Aided,Others,UG,12,6,2
+2019-01-01,Maths,Indian,Aided,SC,UG,30,15,5
+2019-01-01,Maths,Indian,Aided,ST,UG,30,15,5
+2019-01-01,Maths,Indian,SFS,BC,UG,204,102,34
+2019-01-01,Maths,Indian,SFS,MBC,UG,12,6,2
+2019-01-01,Maths,Indian,SFS,OBC,UG,66,33,11
+2019-01-01,Maths,Indian,SFS,Others,UG,36,18,6
+2019-01-01,Maths,Indian,SFS,SC,UG,24,12,4
+2019-01-01,Maths,Indian,SFS,ST,UG,12,6,2
+2019-01-01,Microbiology,Indian,SFS,BC,UG,252,126,42
+2019-01-01,Microbiology,Indian,SFS,MBC,UG,18,9,3
+2019-01-01,Microbiology,Indian,SFS,OBC,UG,90,45,15
+2019-01-01,Microbiology,Indian,SFS,Others,UG,18,9,3
+2019-01-01,Microbiology,Indian,SFS,SC,UG,24,12,4
+2019-01-01,Microbiology,Indian,SFS,ST,UG,30,15,5
+2019-01-01,PET,Indian,SFS,BC,UG,210,105,35
+2019-01-01,PET,Indian,SFS,MBC,UG,36,18,6
+2019-01-01,PET,Indian,SFS,OBC,UG,114,57,19
+2019-01-01,PET,Indian,SFS,Others,UG,18,9,3
+2019-01-01,PET,Indian,SFS,SC,UG,54,27,9
+2019-01-01,PET,Indian,SFS,ST,UG,72,36,12
+2019-01-01,PET,Others,SFS,BC,UG,18,9,3
+2019-01-01,PET,Others,SFS,MBC,UG,12,6,2
+2019-01-01,PET,Others,SFS,OBC,UG,6,3,1
+2019-01-01,PET,Others,SFS,SC,UG,6,3,1
+2019-01-01,Philosophy,Indian,Aided,BC,UG,114,57,19
+2019-01-01,Philosophy,Indian,Aided,MBC,UG,66,33,11
+2019-01-01,Philosophy,Indian,Aided,OBC,UG,36,18,6
+2019-01-01,Philosophy,Indian,Aided,Others,UG,24,12,4
+2019-01-01,Philosophy,Indian,Aided,SC,UG,6,3,1
+2019-01-01,Philosophy,Indian,Aided,ST,UG,18,9,3
+2019-01-01,Philosophy,Indian,SFS,BC,UG,216,108,36
+2019-01-01,Philosophy,Indian,SFS,MBC,UG,30,15,5
+2019-01-01,Philosophy,Indian,SFS,OBC,UG,42,21,7
+2019-01-01,Philosophy,Indian,SFS,Others,UG,42,21,7
+2019-01-01,Philosophy,Indian,SFS,SC,UG,36,18,6
+2019-01-01,Philosophy,Indian,SFS,ST,UG,12,6,2
+2019-01-01,Philosophy,Others,Aided,Others,UG,12,6,2
+2019-01-01,Philosophy,Others,SFS,BC,UG,24,12,4
+2019-01-01,Philosophy,Others,SFS,MBC,UG,36,18,6
+2019-01-01,Physics,Indian,Aided,BC,UG,120,60,20
+2019-01-01,Physics,Indian,Aided,MBC,UG,18,9,3
+2019-01-01,Physics,Indian,Aided,OBC,UG,72,36,12
+2019-01-01,Physics,Indian,Aided,Others,UG,18,9,3
+2019-01-01,Physics,Indian,Aided,SC,UG,42,21,7
+2019-01-01,Physics,Indian,Aided,ST,UG,6,3,1
+2019-01-01,Physics,Indian,SFS,BC,UG,162,81,27
+2019-01-01,Physics,Indian,SFS,MBC,UG,48,24,8
+2019-01-01,Physics,Indian,SFS,OBC,UG,102,51,17
+2019-01-01,Physics,Indian,SFS,Others,UG,12,6,2
+2019-01-01,Physics,Indian,SFS,SC,UG,60,30,10
+2019-01-01,Physics,Indian,SFS,ST,UG,60,30,10
+2019-01-01,Political Science,Indian,Aided,BC,UG,192,96,32
+2019-01-01,Political Science,Indian,Aided,MBC,UG,30,15,5
+2019-01-01,Political Science,Indian,Aided,OBC,UG,30,15,5
+2019-01-01,Political Science,Indian,Aided,Others,UG,18,9,3
+2019-01-01,Political Science,Indian,Aided,SC,UG,54,27,9
+2019-01-01,Political Science,Indian,Aided,ST,UG,12,6,2
+2019-01-01,Political Science,Indian,SFS,BC,UG,168,84,28
+2019-01-01,Political Science,Indian,SFS,MBC,UG,48,24,8
+2019-01-01,Political Science,Indian,SFS,OBC,UG,108,54,18
+2019-01-01,Political Science,Indian,SFS,Others,UG,30,15,5
+2019-01-01,Political Science,Indian,SFS,SC,UG,24,12,4
+2019-01-01,Political Science,Indian,SFS,ST,UG,36,18,6
+2019-01-01,Social Work,Indian,Aided,BC,UG,168,84,28
+2019-01-01,Social Work,Indian,Aided,MBC,UG,6,3,1
+2019-01-01,Social Work,Indian,Aided,OBC,UG,72,36,12
+2019-01-01,Social Work,Indian,Aided,SC,UG,18,9,3
+2019-01-01,Social Work,Indian,Aided,ST,UG,24,12,4
+2019-01-01,Social Work,Indian,SFS,BC,UG,276,138,46
+2019-01-01,Social Work,Indian,SFS,MBC,UG,60,30,10
+2019-01-01,Social Work,Indian,SFS,OBC,UG,144,72,24
+2019-01-01,Social Work,Indian,SFS,Others,UG,48,24,8
+2019-01-01,Social Work,Indian,SFS,SC,UG,60,30,10
+2019-01-01,Social Work,Indian,SFS,ST,UG,60,30,10
+2019-01-01,Statistics,Indian,Aided,BC,UG,126,63,21
+2019-01-01,Statistics,Indian,Aided,MBC,UG,36,18,6
+2019-01-01,Statistics,Indian,Aided,OBC,UG,78,39,13
+2019-01-01,Statistics,Indian,Aided,Others,UG,12,6,2
+2019-01-01,Statistics,Indian,Aided,SC,UG,30,15,5
+2019-01-01,Statistics,Indian,Aided,ST,UG,36,18,6
+2019-01-01,Statistics,Indian,SFS,BC,UG,174,87,29
+2019-01-01,Statistics,Indian,SFS,MBC,UG,30,15,5
+2019-01-01,Statistics,Indian,SFS,OBC,UG,84,42,14
+2019-01-01,Statistics,Indian,SFS,Others,UG,12,6,2
+2019-01-01,Statistics,Indian,SFS,SC,UG,72,36,12
+2019-01-01,Statistics,Indian,SFS,ST,UG,54,27,9
+2019-01-01,Tamil,Indian,Aided,BC,UG,174,87,29
+2019-01-01,Tamil,Indian,Aided,MBC,UG,18,9,3
+2019-01-01,Tamil,Indian,Aided,OBC,UG,84,42,14
+2019-01-01,Tamil,Indian,Aided,Others,UG,18,9,3
+2019-01-01,Tamil,Indian,Aided,SC,UG,12,6,2
+2019-01-01,Tamil,Indian,Aided,ST,UG,12,6,2
+2019-01-01,Tamil,Indian,SFS,BC,UG,156,78,26
+2019-01-01,Tamil,Indian,SFS,MBC,UG,30,15,5
+2019-01-01,Tamil,Indian,SFS,OBC,UG,66,33,11
+2019-01-01,Tamil,Indian,SFS,Others,UG,30,15,5
+2019-01-01,Tamil,Indian,SFS,SC,UG,30,15,5
+2019-01-01,Tamil,Indian,SFS,ST,UG,18,9,3
+2019-01-01,Zoology,Indian,Aided,BC,UG,72,36,12
+2019-01-01,Zoology,Indian,Aided,MBC,UG,36,18,6
+2019-01-01,Zoology,Indian,Aided,OBC,UG,48,24,8
+2019-01-01,Zoology,Indian,Aided,SC,UG,12,6,2
+2019-01-01,Zoology,Indian,Aided,ST,UG,42,21,7
+2019-01-01,Zoology,Indian,SFS,BC,UG,96,48,16
+2019-01-01,Zoology,Indian,SFS,MBC,UG,24,12,4
+2019-01-01,Zoology,Indian,SFS,OBC,UG,114,57,19
+2019-01-01,Zoology,Indian,SFS,Others,UG,12,6,2
+2019-01-01,Zoology,Indian,SFS,SC,UG,18,9,3
+2019-01-01,Zoology,Indian,SFS,ST,UG,6,3,1
